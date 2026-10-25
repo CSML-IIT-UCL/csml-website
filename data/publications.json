@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "OpenAlex",
-  "last_full_refresh_at": "2026-10-18T07:43:13.097042Z",
+  "last_full_refresh_at": "2026-10-25T08:03:18.097716Z",
   "author_roster_signature": "accd738bc659d3c39419569e4c210a33e230a7c7a068861a312219282119b862",
   "queried_author_ids": [
     "A5003851001",
@@ -25,7 +25,7 @@
       "author_ids": [
         "A5089972466"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 9,
       "status": "complete"
     },
@@ -33,7 +33,7 @@
       "author_ids": [
         "A5069560062"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 4,
       "status": "complete"
     },
@@ -41,7 +41,7 @@
       "author_ids": [
         "A5104181387"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 7,
       "status": "complete"
     },
@@ -49,7 +49,7 @@
       "author_ids": [
         "A5122991001"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 7,
       "status": "complete"
     },
@@ -57,7 +57,7 @@
       "author_ids": [
         "A5035003258"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 17,
       "status": "complete"
     },
@@ -65,7 +65,7 @@
       "author_ids": [
         "A5003851001"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 59,
       "status": "complete"
     },
@@ -73,7 +73,7 @@
       "author_ids": [
         "A5021345394"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 23,
       "status": "complete"
     },
@@ -81,7 +81,7 @@
       "author_ids": [
         "A5083456765"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 95,
       "status": "complete"
     },
@@ -89,7 +89,7 @@
       "author_ids": [
         "A5099860126"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 2,
       "status": "complete"
     },
@@ -97,7 +97,7 @@
       "author_ids": [
         "A5034260726"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 275,
       "status": "complete"
     },
@@ -105,7 +105,7 @@
       "author_ids": [
         "A5050747663"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 23,
       "status": "complete"
     },
@@ -113,7 +113,7 @@
       "author_ids": [
         "A5017463552"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 47,
       "status": "complete"
     },
@@ -121,7 +121,7 @@
       "author_ids": [
         "A5109598009"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 7,
       "status": "complete"
     },
@@ -129,7 +129,7 @@
       "author_ids": [
         "A5025124468"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 20,
       "status": "complete"
     },
@@ -137,7 +137,7 @@
       "author_ids": [
         "A5126083601"
       ],
-      "last_successful_refresh_at": "2026-10-18T07:43:13.097042Z",
+      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
       "works_count": 2,
       "status": "complete"
     }
@@ -621,7 +621,7 @@
           "source_url": "https://openalex.org/W7221760723",
           "venue": "Computers & Graphics",
           "doi": "10.1016/j.cag.2026.104782",
-          "open_access_url": null
+          "open_access_url": "https://doi.org/10.1016/j.cag.2026.104782"
         }
       ]
     },
@@ -1722,7 +1722,7 @@
       "landing_page_url": "https://doi.org/10.1561/2200000088",
       "open_access_url": "http://arxiv.org/abs/2410.22854",
       "is_retracted": false,
-      "cited_by_count": 40
+      "cited_by_count": 42
     },
     {
       "id": "https://openalex.org/W4414721130",
@@ -2066,7 +2066,7 @@
       "landing_page_url": "http://arxiv.org/abs/2508.01477",
       "open_access_url": "http://arxiv.org/abs/2508.01477",
       "is_retracted": false,
-      "cited_by_count": 0,
+      "cited_by_count": 1,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W7125910376",
@@ -2539,7 +2539,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.media.2024.103253",
       "open_access_url": "https://doi.org/10.1016/j.media.2024.103253",
       "is_retracted": false,
-      "cited_by_count": 30
+      "cited_by_count": 31
     },
     {
       "id": "https://openalex.org/W4405399994",
@@ -3433,7 +3433,7 @@
       "landing_page_url": "https://doi.org/10.1007/s40766-023-00046-5",
       "open_access_url": "https://doi.org/10.1007/s40766-023-00046-5",
       "is_retracted": false,
-      "cited_by_count": 10
+      "cited_by_count": 11
     },
     {
       "id": "https://openalex.org/W7133234810",
@@ -3858,7 +3858,7 @@
       "landing_page_url": "https://doi.org/10.3390/electronics12102338",
       "open_access_url": "https://doi.org/10.3390/electronics12102338",
       "is_retracted": false,
-      "cited_by_count": 29
+      "cited_by_count": 31
     },
     {
       "id": "https://openalex.org/W6996153154",
@@ -4189,7 +4189,7 @@
       "title": "Bregman Neural Networks",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
-      "type": "conference-paper",
+      "type": "book-chapter",
       "authors": [
         "Jordan Frécon",
         "Saverio Salzo",
@@ -4486,7 +4486,7 @@
       "landing_page_url": "https://doi.org/10.1007/s10845-022-01960-x",
       "open_access_url": "https://doi.org/10.1007/s10845-022-01960-x",
       "is_retracted": false,
-      "cited_by_count": 263
+      "cited_by_count": 264
     },
     {
       "id": "https://openalex.org/W7133215511",
@@ -4867,7 +4867,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.healthpol.2022.12.001",
       "open_access_url": "https://doi.org/10.1016/j.healthpol.2022.12.001",
       "is_retracted": false,
-      "cited_by_count": 29
+      "cited_by_count": 30
     },
     {
       "id": "https://openalex.org/W3131332842",
@@ -5012,7 +5012,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.patcog.2021.108197",
       "open_access_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8295058",
       "is_retracted": false,
-      "cited_by_count": 48
+      "cited_by_count": 49
     },
     {
       "id": "https://openalex.org/W4206682107",
@@ -6175,7 +6175,7 @@
       ],
       "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
       "landing_page_url": "https://hal.science/hal-02501190",
-      "open_access_url": null,
+      "open_access_url": "https://hal.science/hal-02501190",
       "is_retracted": false,
       "cited_by_count": 19
     },
@@ -6352,7 +6352,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.patrec.2020.02.017",
       "open_access_url": "https://doi.org/10.1016/j.patrec.2020.02.017",
       "is_retracted": false,
-      "cited_by_count": 368
+      "cited_by_count": 372
     },
     {
       "id": "https://openalex.org/W3035736507",
@@ -6733,7 +6733,7 @@
       "landing_page_url": "https://doi.org/10.3390/info11040202",
       "open_access_url": "https://doi.org/10.3390/info11040202",
       "is_retracted": false,
-      "cited_by_count": 156
+      "cited_by_count": 157
     },
     {
       "id": "https://openalex.org/W3024713218",
@@ -6852,7 +6852,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.neucom.2018.10.104",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 185
+      "cited_by_count": 186
     },
     {
       "id": "https://openalex.org/W2921560334",
@@ -7006,7 +7006,7 @@
       "landing_page_url": "https://doi.org/10.1109/jbhi.2019.2899218",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 119
+      "cited_by_count": 121
     },
     {
       "id": "https://openalex.org/W3185451999",
@@ -8284,7 +8284,7 @@
       "landing_page_url": "https://doi.org/10.1109/mesa.2018.8449150",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 295
+      "cited_by_count": 296
     },
     {
       "id": "https://openalex.org/W2889295853",
@@ -8420,7 +8420,7 @@
       "landing_page_url": "https://doi.org/10.1098/rspa.2017.0551",
       "open_access_url": "https://doi.org/10.1098/rspa.2017.0551",
       "is_retracted": false,
-      "cited_by_count": 517
+      "cited_by_count": 520
     },
     {
       "id": "https://openalex.org/W2963363565",
@@ -8943,7 +8943,7 @@
       "landing_page_url": "https://doi.org/10.1137/16m1073741",
       "open_access_url": "http://arxiv.org/abs/1605.00952",
       "is_retracted": false,
-      "cited_by_count": 62
+      "cited_by_count": 63
     },
     {
       "id": "https://openalex.org/W2555008851",
@@ -10107,7 +10107,7 @@
       "landing_page_url": "https://doi.org/10.1137/110844805",
       "open_access_url": "http://infoscience.epfl.ch/record/190939",
       "is_retracted": false,
-      "cited_by_count": 197
+      "cited_by_count": 198
     },
     {
       "id": "https://openalex.org/W2049438567",
@@ -10448,7 +10448,7 @@
       "landing_page_url": "https://doi.org/10.1371/annotation/ca85bf7a-7922-47d5-8bfb-bcdf25af8c72",
       "open_access_url": "https://doi.org/10.1371/annotation/ca85bf7a-7922-47d5-8bfb-bcdf25af8c72",
       "is_retracted": false,
-      "cited_by_count": 110
+      "cited_by_count": 111
     },
     {
       "id": "https://openalex.org/W1565096114",
@@ -12142,7 +12142,7 @@
       "landing_page_url": "https://doi.org/10.1162/0899766052530802",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 494
+      "cited_by_count": 495
     },
     {
       "id": "https://openalex.org/W2143104527",
@@ -12164,7 +12164,7 @@
       "landing_page_url": "https://doi.org/10.1145/1014052.1014067",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 1471
+      "cited_by_count": 1472
     },
     {
       "id": "https://openalex.org/W2055979621",
@@ -12216,7 +12216,7 @@
       "title": "Combining flat and structured representations for fingerprint classification with recursive neural networks and support vector machines RID G-2944-2010",
       "publication_year": 2003,
       "publication_date": "2003-01-01",
-      "type": "article",
+      "type": "other",
       "authors": [
         "Y. Yao",
         "Gian Luca Marcialis",
