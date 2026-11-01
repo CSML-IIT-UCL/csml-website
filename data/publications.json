@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "OpenAlex",
-  "last_full_refresh_at": "2026-10-25T08:03:18.097716Z",
+  "last_full_refresh_at": "2026-11-01T09:59:14.681053Z",
   "author_roster_signature": "accd738bc659d3c39419569e4c210a33e230a7c7a068861a312219282119b862",
   "queried_author_ids": [
     "A5003851001",
@@ -25,7 +25,7 @@
       "author_ids": [
         "A5089972466"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 9,
       "status": "complete"
     },
@@ -33,7 +33,7 @@
       "author_ids": [
         "A5069560062"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 4,
       "status": "complete"
     },
@@ -41,7 +41,7 @@
       "author_ids": [
         "A5104181387"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 7,
       "status": "complete"
     },
@@ -49,7 +49,7 @@
       "author_ids": [
         "A5122991001"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 7,
       "status": "complete"
     },
@@ -57,7 +57,7 @@
       "author_ids": [
         "A5035003258"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 17,
       "status": "complete"
     },
@@ -65,31 +65,31 @@
       "author_ids": [
         "A5003851001"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
-      "works_count": 59,
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
+      "works_count": 60,
       "status": "complete"
     },
     "lisa-cuneo": {
       "author_ids": [
         "A5021345394"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
-      "works_count": 23,
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
+      "works_count": 24,
       "status": "complete"
     },
     "luca-romeo": {
       "author_ids": [
         "A5083456765"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
-      "works_count": 95,
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
+      "works_count": 96,
       "status": "complete"
     },
     "marco-prattico": {
       "author_ids": [
         "A5099860126"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 2,
       "status": "complete"
     },
@@ -97,7 +97,7 @@
       "author_ids": [
         "A5034260726"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 275,
       "status": "complete"
     },
@@ -105,7 +105,7 @@
       "author_ids": [
         "A5050747663"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 23,
       "status": "complete"
     },
@@ -113,7 +113,7 @@
       "author_ids": [
         "A5017463552"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 47,
       "status": "complete"
     },
@@ -121,7 +121,7 @@
       "author_ids": [
         "A5109598009"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 7,
       "status": "complete"
     },
@@ -129,7 +129,7 @@
       "author_ids": [
         "A5025124468"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 20,
       "status": "complete"
     },
@@ -137,7 +137,7 @@
       "author_ids": [
         "A5126083601"
       ],
-      "last_successful_refresh_at": "2026-10-25T08:03:18.097716Z",
+      "last_successful_refresh_at": "2026-11-01T09:59:14.681053Z",
       "works_count": 2,
       "status": "complete"
     }
@@ -331,7 +331,7 @@
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W7129027294",
       "doi": "10.48550/arxiv.2602.13112",
-      "title": "AdaGrad-Diff: A New Version of the Adaptive Gradient Algorithm",
+      "title": "AdaGrad-Diff: a Corrected Version of the Adaptive Gradient Algorithm for Composite Optimization",
       "publication_year": 2026,
       "publication_date": "2026-02-13",
       "type": "preprint",
@@ -450,7 +450,7 @@
       "member_ids": [
         "giacomo-turri"
       ],
-      "venue": null,
+      "venue": "Publons reviews and discussion",
       "landing_page_url": "https://doi.org/10.1098/rsos.252403/v2/response1",
       "open_access_url": null,
       "is_retracted": false,
@@ -558,7 +558,7 @@
       "landing_page_url": "https://doi.org/10.1007/s11042-026-21445-w",
       "open_access_url": "https://arxiv.org/abs/2508.09094",
       "is_retracted": false,
-      "cited_by_count": 0
+      "cited_by_count": 1
     },
     {
       "id": "https://openalex.org/W7162654697",
@@ -676,6 +676,32 @@
       "cited_by_count": 0
     },
     {
+      "id": "https://openalex.org/W7147144553",
+      "source": "OpenAlex",
+      "source_url": "https://openalex.org/W7147144553",
+      "doi": "10.1007/978-3-032-06057-0",
+      "title": "High Dimensional Probability X",
+      "publication_year": 2026,
+      "publication_date": "2026-01-01",
+      "type": "book",
+      "authors": [
+        "Radosław Adamczak",
+        "Nathaël Gozlan",
+        "Karim Lounici",
+        "Mokshay Madiman",
+        "Florence Merlevède",
+        "Elisabeth Werner"
+      ],
+      "member_ids": [
+        "karim-lounici"
+      ],
+      "venue": "Progress in probability",
+      "landing_page_url": "https://doi.org/10.1007/978-3-032-06057-0",
+      "open_access_url": null,
+      "is_retracted": false,
+      "cited_by_count": 0
+    },
+    {
       "id": "https://openalex.org/W7213584742",
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W7213584742",
@@ -764,13 +790,6 @@
       "cited_by_count": 0,
       "alternate_locations": [
         {
-          "id": "https://openalex.org/W7117631759",
-          "source_url": "https://openalex.org/W7117631759",
-          "venue": "arXiv (Cornell University)",
-          "doi": "10.21105/joss.10342",
-          "open_access_url": "https://arxiv.org/abs/2512.21409"
-        },
-        {
           "id": "https://openalex.org/W7161064952",
           "source_url": "https://openalex.org/W7161064952",
           "venue": "Zenodo (CERN European Organization for Nuclear Research)",
@@ -831,6 +850,31 @@
       "open_access_url": "https://arxiv.org/abs/2609.35598",
       "is_retracted": false,
       "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7124684651",
+      "source": "OpenAlex",
+      "source_url": "https://openalex.org/W7124684651",
+      "doi": "10.1145/3788673",
+      "title": "Machine Learning-Based Clinical Decision Support System for Hepatic Fibrosis Risk Prediction in General Practice",
+      "publication_year": 2026,
+      "publication_date": "2026-01-19",
+      "type": "article",
+      "authors": [
+        "Michele Bernardini",
+        "Mariachiara Di Cosmo",
+        "Gaia Barone",
+        "Luca Romeo",
+        "Emanuele Frontoni"
+      ],
+      "member_ids": [
+        "luca-romeo"
+      ],
+      "venue": "ACM Transactions on Computing for Healthcare",
+      "landing_page_url": "https://doi.org/10.1145/3788673",
+      "open_access_url": null,
+      "is_retracted": false,
+      "cited_by_count": 1
     },
     {
       "id": "https://openalex.org/W7165734987",
@@ -903,6 +947,31 @@
       "venue": "arXiv (Cornell University)",
       "landing_page_url": "https://arxiv.org/abs/2609.35429",
       "open_access_url": "https://arxiv.org/abs/2609.35429",
+      "is_retracted": false,
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7224932886",
+      "source": "OpenAlex",
+      "source_url": "https://openalex.org/W7224932886",
+      "doi": "10.48550/arxiv.2610.40088",
+      "title": "Neural Blind Deconvolution for Image Scanning Microscopy",
+      "publication_year": 2026,
+      "publication_date": "2026-10-29",
+      "type": "preprint",
+      "authors": [
+        "Eliot Guez",
+        "Nathan Buskulic",
+        "Lisa Cuneo",
+        "Luca Calatroni",
+        "Giuseppe Vicidomini"
+      ],
+      "member_ids": [
+        "lisa-cuneo"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2610.40088",
+      "open_access_url": "https://doi.org/10.48550/arxiv.2610.40088",
       "is_retracted": false,
       "cited_by_count": 0
     },
@@ -1236,24 +1305,17 @@
         "emanuele-ballarin"
       ],
       "venue": "arXiv (Cornell University)",
-      "landing_page_url": "https://doi.org/10.48550/arxiv.2601.06597",
-      "open_access_url": "https://doi.org/10.48550/arxiv.2601.06597",
+      "landing_page_url": "https://arxiv.org/abs/2601.06597",
+      "open_access_url": "https://arxiv.org/abs/2601.06597",
       "is_retracted": false,
       "cited_by_count": 0,
       "alternate_locations": [
-        {
-          "id": "https://openalex.org/W7124118760",
-          "source_url": "https://openalex.org/W7124118760",
-          "venue": "arXiv (Cornell University)",
-          "doi": null,
-          "open_access_url": "https://arxiv.org/abs/2601.06597"
-        },
         {
           "id": "https://openalex.org/W7153621101",
           "source_url": "https://openalex.org/W7153621101",
           "venue": null,
           "doi": "10.13140/rg.2.2.15362.64964",
-          "open_access_url": "https://doi.org/10.13140/rg.2.2.15362.64964"
+          "open_access_url": null
         }
       ]
     },
@@ -1333,7 +1395,7 @@
       "member_ids": [
         "daniel-rodrigues"
       ],
-      "venue": null,
+      "venue": "SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)",
       "landing_page_url": "https://doi.org/10.5753/sibgrapi.est.2025.38270",
       "open_access_url": "https://doi.org/10.5753/sibgrapi.est.2025.38270",
       "is_retracted": false,
@@ -1381,7 +1443,7 @@
       "member_ids": [
         "karim-lounici"
       ],
-      "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "venue": "HAL",
       "landing_page_url": "https://hal.science/hal-05382168v1",
       "open_access_url": "https://hal.science/hal-05382168v1",
       "is_retracted": false,
@@ -1722,7 +1784,7 @@
       "landing_page_url": "https://doi.org/10.1561/2200000088",
       "open_access_url": "http://arxiv.org/abs/2410.22854",
       "is_retracted": false,
-      "cited_by_count": 42
+      "cited_by_count": 43
     },
     {
       "id": "https://openalex.org/W4414721130",
@@ -1917,7 +1979,7 @@
       "landing_page_url": "https://doi.org/10.1609/aaai.v39i27.35017",
       "open_access_url": "https://doi.org/10.1609/aaai.v39i27.35017",
       "is_retracted": false,
-      "cited_by_count": 0
+      "cited_by_count": 1
     },
     {
       "id": "https://openalex.org/W4415035561",
@@ -2052,7 +2114,7 @@
       "title": "The seeds of the future are in the present: A blind exploration of metastable states",
       "publication_year": 2025,
       "publication_date": "2025-08-02",
-      "type": "preprint",
+      "type": "article",
       "authors": [
         "Timothée Devergne",
         "Vladimir Kostić",
@@ -2062,9 +2124,9 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": "arXiv (Cornell University)",
-      "landing_page_url": "http://arxiv.org/abs/2508.01477",
-      "open_access_url": "http://arxiv.org/abs/2508.01477",
+      "venue": "PubMed Central",
+      "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12867751/",
+      "open_access_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12867751/",
       "is_retracted": false,
       "cited_by_count": 1,
       "alternate_locations": [
@@ -2162,7 +2224,7 @@
       "landing_page_url": "https://doi.org/10.1038/s42005-025-02086-1",
       "open_access_url": "https://doi.org/10.1038/s42005-025-02086-1",
       "is_retracted": false,
-      "cited_by_count": 26
+      "cited_by_count": 29
     },
     {
       "id": "https://openalex.org/W7160566932",
@@ -2539,7 +2601,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.media.2024.103253",
       "open_access_url": "https://doi.org/10.1016/j.media.2024.103253",
       "is_retracted": false,
-      "cited_by_count": 31
+      "cited_by_count": 32
     },
     {
       "id": "https://openalex.org/W4405399994",
@@ -3525,7 +3587,7 @@
         {
           "id": "https://openalex.org/W4388512873",
           "source_url": "https://openalex.org/W4388512873",
-          "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "venue": "HAL",
           "doi": null,
           "open_access_url": "https://hal.science/hal-04275558"
         }
@@ -3764,7 +3826,7 @@
       "member_ids": [
         "daniel-ordonez"
       ],
-      "venue": null,
+      "venue": "Robotics: Science and Systems",
       "landing_page_url": "https://doi.org/10.15607/rss.2023.xix.053",
       "open_access_url": "https://doi.org/10.15607/rss.2023.xix.053",
       "is_retracted": false,
@@ -3858,7 +3920,7 @@
       "landing_page_url": "https://doi.org/10.3390/electronics12102338",
       "open_access_url": "https://doi.org/10.3390/electronics12102338",
       "is_retracted": false,
-      "cited_by_count": 31
+      "cited_by_count": 33
     },
     {
       "id": "https://openalex.org/W6996153154",
@@ -3880,7 +3942,7 @@
       "member_ids": [
         "saverio-salzo"
       ],
-      "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "venue": "HAL",
       "landing_page_url": "https://hal.science/hal-04183917/document",
       "open_access_url": "https://hal.science/hal-04183917/document",
       "is_retracted": false,
@@ -4050,7 +4112,7 @@
         {
           "id": "https://openalex.org/W4296548467",
           "source_url": "https://openalex.org/W4296548467",
-          "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "venue": "HAL",
           "doi": null,
           "open_access_url": "https://hal.science/hal-03782218"
         }
@@ -4107,7 +4169,7 @@
       "landing_page_url": "https://doi.org/10.1007/s00521-022-07050-6",
       "open_access_url": "https://doi.org/10.1007/s00521-022-07050-6",
       "is_retracted": false,
-      "cited_by_count": 34
+      "cited_by_count": 35
     },
     {
       "id": "https://openalex.org/W4281758395",
@@ -4189,7 +4251,7 @@
       "title": "Bregman Neural Networks",
       "publication_year": 2022,
       "publication_date": "2022-01-01",
-      "type": "book-chapter",
+      "type": "conference-paper",
       "authors": [
         "Jordan Frécon",
         "Saverio Salzo",
@@ -4332,7 +4394,7 @@
       "member_ids": [
         "luca-romeo"
       ],
-      "venue": "IEEE International Conference on Problems of Infocommunications, Science and Technology (PIC S&T)",
+      "venue": "International Scientific-Practical Conference Problems of Infocommunications Science and Technology",
       "landing_page_url": "https://doi.org/10.1109/picst57299.2022.10238559",
       "open_access_url": "https://hdl.handle.net/11393/371891",
       "is_retracted": false,
@@ -4357,7 +4419,7 @@
       "member_ids": [
         "luca-romeo"
       ],
-      "venue": "IEEE International Conference on Problems of Infocommunications, Science and Technology (PIC S&T)",
+      "venue": "International Scientific-Practical Conference Problems of Infocommunications Science and Technology",
       "landing_page_url": "https://doi.org/10.1109/picst57299.2022.10238643",
       "open_access_url": null,
       "is_retracted": false,
@@ -4408,7 +4470,7 @@
       "member_ids": [
         "luca-romeo"
       ],
-      "venue": "IEEE International Conference on Problems of Infocommunications, Science and Technology (PIC S&T)",
+      "venue": "International Scientific-Practical Conference Problems of Infocommunications Science and Technology",
       "landing_page_url": "http://dx.doi.org/10.1109/picst57299.2022.10238549",
       "open_access_url": null,
       "is_retracted": false,
@@ -4486,7 +4548,7 @@
       "landing_page_url": "https://doi.org/10.1007/s10845-022-01960-x",
       "open_access_url": "https://doi.org/10.1007/s10845-022-01960-x",
       "is_retracted": false,
-      "cited_by_count": 264
+      "cited_by_count": 265
     },
     {
       "id": "https://openalex.org/W7133215511",
@@ -4662,7 +4724,7 @@
       "landing_page_url": "https://doi.org/10.1021/acs.nanolett.2c01114",
       "open_access_url": "https://doi.org/10.1021/acs.nanolett.2c01114",
       "is_retracted": false,
-      "cited_by_count": 9
+      "cited_by_count": 10
     },
     {
       "id": "https://openalex.org/W4221155608",
@@ -4717,7 +4779,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.diabres.2022.110013",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 67
+      "cited_by_count": 68
     },
     {
       "id": "https://openalex.org/W4304208799",
@@ -5012,7 +5074,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.patcog.2021.108197",
       "open_access_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8295058",
       "is_retracted": false,
-      "cited_by_count": 49
+      "cited_by_count": 50
     },
     {
       "id": "https://openalex.org/W4206682107",
@@ -5035,7 +5097,7 @@
       "member_ids": [
         "lisa-cuneo"
       ],
-      "venue": "Frontiers in Optics + Laser Science (FiO, LS)",
+      "venue": "Frontiers in Optics",
       "landing_page_url": "https://doi.org/10.1364/fio.2021.jth5a.111",
       "open_access_url": null,
       "is_retracted": false,
@@ -5063,7 +5125,7 @@
       "landing_page_url": "https://doi.org/10.1609/icwsm.v5i1.14175",
       "open_access_url": "https://doi.org/10.1609/icwsm.v5i1.14175",
       "is_retracted": false,
-      "cited_by_count": 490
+      "cited_by_count": 489
     },
     {
       "id": "https://openalex.org/W3162723814",
@@ -5856,7 +5918,7 @@
       "landing_page_url": "https://doi.org/10.1109/jtehm.2020.3031107",
       "open_access_url": "https://doi.org/10.1109/jtehm.2020.3031107",
       "is_retracted": false,
-      "cited_by_count": 31
+      "cited_by_count": 32
     },
     {
       "id": "https://openalex.org/W3034360394",
@@ -6173,7 +6235,7 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "venue": "HAL",
       "landing_page_url": "https://hal.science/hal-02501190",
       "open_access_url": "https://hal.science/hal-02501190",
       "is_retracted": false,
@@ -6275,7 +6337,7 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": null,
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
       "landing_page_url": "https://doi.org/10.1109/ijcnn48605.2020.9206819",
       "open_access_url": "http://arxiv.org/abs/1901.10080",
       "is_retracted": false,
@@ -6352,7 +6414,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.patrec.2020.02.017",
       "open_access_url": "https://doi.org/10.1016/j.patrec.2020.02.017",
       "is_retracted": false,
-      "cited_by_count": 372
+      "cited_by_count": 375
     },
     {
       "id": "https://openalex.org/W3035736507",
@@ -6459,7 +6521,7 @@
       "id": "https://openalex.org/W3036581958",
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W3036581958",
-      "doi": null,
+      "doi": "10.48550/arxiv.2006.12938",
       "title": "Multi-source Domain Adaptation via Weighted Joint Distributions Optimal Transport",
       "publication_year": 2020,
       "publication_date": "2020-06-23",
@@ -6477,16 +6539,7 @@
       "landing_page_url": "http://arxiv.org/abs/2006.12938",
       "open_access_url": "http://arxiv.org/abs/2006.12938",
       "is_retracted": false,
-      "cited_by_count": 8,
-      "alternate_locations": [
-        {
-          "id": "https://openalex.org/W4309088539",
-          "source_url": "https://openalex.org/W4309088539",
-          "venue": "arXiv (Cornell University)",
-          "doi": "10.48550/arxiv.2006.12938",
-          "open_access_url": "https://doi.org/10.48550/arxiv.2006.12938"
-        }
-      ]
+      "cited_by_count": 10
     },
     {
       "id": "https://openalex.org/W3037674050",
@@ -6730,10 +6783,10 @@
         "luca-romeo"
       ],
       "venue": "Information",
-      "landing_page_url": "https://doi.org/10.3390/info11040202",
-      "open_access_url": "https://doi.org/10.3390/info11040202",
+      "landing_page_url": "http://dx.doi.org/10.3390/info11040202",
+      "open_access_url": "http://dx.doi.org/10.3390/info11040202",
       "is_retracted": false,
-      "cited_by_count": 157
+      "cited_by_count": 158
     },
     {
       "id": "https://openalex.org/W3024713218",
@@ -6852,7 +6905,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.neucom.2018.10.104",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 186
+      "cited_by_count": 187
     },
     {
       "id": "https://openalex.org/W2921560334",
@@ -7402,8 +7455,8 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": "The European Symposium on Artificial Neural Networks",
-      "landing_page_url": "https://dblp.uni-trier.de/db/conf/esann/esann2019.html#OnetoDP19",
+      "venue": "CINECA IRIS Institutial Research Information System (University of Genoa)",
+      "landing_page_url": "https://hdl.handle.net/11567/1086658",
       "open_access_url": null,
       "is_retracted": false,
       "cited_by_count": 0
@@ -7482,7 +7535,7 @@
       "landing_page_url": "http://arxiv.org/abs/1905.13194",
       "open_access_url": "http://arxiv.org/abs/1905.13194",
       "is_retracted": false,
-      "cited_by_count": 18
+      "cited_by_count": 17
     },
     {
       "id": "https://openalex.org/W2895786087",
@@ -7533,7 +7586,7 @@
       "landing_page_url": "https://doi.org/10.1109/tnsre.2019.2923060",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 160
+      "cited_by_count": 163
     },
     {
       "id": "https://openalex.org/W2987439976",
@@ -7557,7 +7610,7 @@
       "member_ids": [
         "luca-romeo"
       ],
-      "venue": null,
+      "venue": "IEEE International Symposium on Consumer Electronics (ISCE)",
       "landing_page_url": "https://doi.org/10.1109/isce.2019.8901034",
       "open_access_url": null,
       "is_retracted": false,
@@ -7638,8 +7691,8 @@
         "luca-romeo"
       ],
       "venue": "Sensors",
-      "landing_page_url": "https://doi.org/10.3390/s18072310",
-      "open_access_url": "https://doi.org/10.3390/s18072310",
+      "landing_page_url": "http://dx.doi.org/10.3390/s18072310",
+      "open_access_url": "http://dx.doi.org/10.3390/s18072310",
       "is_retracted": false,
       "cited_by_count": 62
     },
@@ -7716,7 +7769,7 @@
       "landing_page_url": "https://doi.org/10.1109/efea.2018.8617089",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 24
+      "cited_by_count": 23
     },
     {
       "id": "https://openalex.org/W2783420784",
@@ -7764,7 +7817,7 @@
         "massimiliano-pontil",
         "saverio-salzo"
       ],
-      "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "venue": null,
       "landing_page_url": "https://hal.archives-ouvertes.fr/hal-03774119",
       "open_access_url": "https://hal.archives-ouvertes.fr/hal-03774119",
       "is_retracted": false,
@@ -7946,7 +7999,7 @@
       "landing_page_url": "http://arxiv.org/abs/1802.08626",
       "open_access_url": "http://arxiv.org/abs/1802.08626",
       "is_retracted": false,
-      "cited_by_count": 157
+      "cited_by_count": 158
     },
     {
       "id": "https://openalex.org/W2808123587",
@@ -8036,7 +8089,7 @@
       "publication_date": "2018-01-01",
       "type": "article",
       "authors": [
-        "Cosimo Anglano A",
+        "Cosimo Anglano",
         "Leonardo Aniello",
         "Arije Antinori",
         "Alessandro Armando",
@@ -8197,7 +8250,7 @@
       "member_ids": [
         "saverio-salzo"
       ],
-      "venue": "ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD)",
+      "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
       "landing_page_url": "https://doi.org/10.1145/3219819.3220121",
       "open_access_url": "http://arxiv.org/abs/1802.03987",
       "is_retracted": false,
@@ -8284,7 +8337,7 @@
       "landing_page_url": "https://doi.org/10.1109/mesa.2018.8449150",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 296
+      "cited_by_count": 297
     },
     {
       "id": "https://openalex.org/W2889295853",
@@ -8333,8 +8386,8 @@
         "luca-romeo"
       ],
       "venue": "Sensors",
-      "landing_page_url": "https://doi.org/10.3390/s18103471",
-      "open_access_url": "https://doi.org/10.3390/s18103471",
+      "landing_page_url": "http://dx.doi.org/10.3390/s18103471",
+      "open_access_url": "http://dx.doi.org/10.3390/s18103471",
       "is_retracted": false,
       "cited_by_count": 41
     },
@@ -8403,7 +8456,7 @@
       "title": "Quantum machine learning: a classical perspective",
       "publication_year": 2018,
       "publication_date": "2018-01-01",
-      "type": "article",
+      "type": "review",
       "authors": [
         "Carlo Ciliberto",
         "Mark Herbster",
@@ -8420,7 +8473,7 @@
       "landing_page_url": "https://doi.org/10.1098/rspa.2017.0551",
       "open_access_url": "https://doi.org/10.1098/rspa.2017.0551",
       "is_retracted": false,
-      "cited_by_count": 520
+      "cited_by_count": 518
     },
     {
       "id": "https://openalex.org/W2963363565",
@@ -8596,7 +8649,7 @@
       "landing_page_url": "https://doi.org/10.21437/interspeech.2017-804",
       "open_access_url": "https://hal.science/hal-02166128",
       "is_retracted": false,
-      "cited_by_count": 4
+      "cited_by_count": 3
     },
     {
       "id": "https://openalex.org/W2624786205",
@@ -8964,7 +9017,7 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": "IEEE International Workshop on Machine Learning for Signal Processing (MLSP)",
+      "venue": "Machine learning for signal processing ...",
       "landing_page_url": "https://doi.org/10.1109/mlsp.2016.7738881",
       "open_access_url": "https://discovery.ucl.ac.uk/id/eprint/1534838/",
       "is_retracted": false,
@@ -9017,11 +9070,11 @@
       "member_ids": [
         "luca-romeo"
       ],
-      "venue": null,
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
       "landing_page_url": "https://doi.org/10.1109/embc.2016.7591950",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 56
+      "cited_by_count": 55
     },
     {
       "id": "https://openalex.org/W1762703698",
@@ -9087,16 +9140,7 @@
       "landing_page_url": "https://doi.org/10.3150/15-bej730",
       "open_access_url": "https://doi.org/10.3150/15-bej730",
       "is_retracted": false,
-      "cited_by_count": 191,
-      "alternate_locations": [
-        {
-          "id": "https://openalex.org/W2951158675",
-          "source_url": "https://openalex.org/W2951158675",
-          "venue": "arXiv (Cornell University)",
-          "doi": "10.48550/arxiv.1405.2468",
-          "open_access_url": "https://arxiv.org/pdf/1405.2468.pdf"
-        }
-      ]
+      "cited_by_count": 202
     },
     {
       "id": "https://openalex.org/W2554146567",
@@ -9117,7 +9161,7 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": null,
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
       "landing_page_url": "https://doi.org/10.1109/ijcnn.2016.7727594",
       "open_access_url": "https://discovery.ucl.ac.uk/id/eprint/1535951/",
       "is_retracted": false,
@@ -9378,7 +9422,7 @@
       "landing_page_url": "https://doi.org/10.1007/s00440-016-0736-y",
       "open_access_url": "http://arxiv.org/abs/1412.8132",
       "is_retracted": false,
-      "cited_by_count": 101
+      "cited_by_count": 102
     },
     {
       "id": "https://openalex.org/W2548809857",
@@ -9479,7 +9523,7 @@
       "member_ids": [
         "luca-romeo"
       ],
-      "venue": null,
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
       "landing_page_url": "https://doi.org/10.1109/embc.2015.7320257",
       "open_access_url": null,
       "is_retracted": false,
@@ -9544,7 +9588,7 @@
       "publication_date": "2015-01-01",
       "type": "article",
       "authors": [
-        "Trevor Jackson Darrell",
+        "Trevor Darrell",
         "Marius Kloft",
         "Massimiliano Pontil",
         "Gunnar Rätsch",
@@ -9786,7 +9830,7 @@
       "landing_page_url": "https://doi.org/10.1214/14-ejs883",
       "open_access_url": "https://doi.org/10.1214/14-ejs883",
       "is_retracted": false,
-      "cited_by_count": 23
+      "cited_by_count": 22
     },
     {
       "id": "https://openalex.org/W2027860796",
@@ -10107,7 +10151,7 @@
       "landing_page_url": "https://doi.org/10.1137/110844805",
       "open_access_url": "http://infoscience.epfl.ch/record/190939",
       "is_retracted": false,
-      "cited_by_count": 198
+      "cited_by_count": 199
     },
     {
       "id": "https://openalex.org/W2049438567",
@@ -10127,7 +10171,7 @@
       "member_ids": [
         "saverio-salzo"
       ],
-      "venue": null,
+      "venue": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
       "landing_page_url": "https://doi.org/10.1109/embc.2013.6609572",
       "open_access_url": null,
       "is_retracted": false,
@@ -10252,16 +10296,7 @@
       "landing_page_url": "https://doi.org/10.1007/978-3-642-41136-6_18",
       "open_access_url": "https://inria.hal.science/hal-00855984",
       "is_retracted": false,
-      "cited_by_count": 6,
-      "alternate_locations": [
-        {
-          "id": "https://openalex.org/W4296406588",
-          "source_url": "https://openalex.org/W4296406588",
-          "venue": "arXiv (Cornell University)",
-          "doi": "10.48550/arxiv.1303.6086",
-          "open_access_url": "https://doi.org/10.48550/arxiv.1303.6086"
-        }
-      ]
+      "cited_by_count": 6
     },
     {
       "id": "https://openalex.org/W1747523053",
@@ -10304,7 +10339,7 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": "IEEE International Conference and Workshops on Automatic Face and Gesture Recognition (FG)",
+      "venue": "International Conference on Automatic Face and Gesture Recognition",
       "landing_page_url": "https://doi.org/10.1109/fg.2013.6553779",
       "open_access_url": null,
       "is_retracted": false,
@@ -10448,7 +10483,7 @@
       "landing_page_url": "https://doi.org/10.1371/annotation/ca85bf7a-7922-47d5-8bfb-bcdf25af8c72",
       "open_access_url": "https://doi.org/10.1371/annotation/ca85bf7a-7922-47d5-8bfb-bcdf25af8c72",
       "is_retracted": false,
-      "cited_by_count": 111
+      "cited_by_count": 112
     },
     {
       "id": "https://openalex.org/W1565096114",
@@ -10609,7 +10644,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.717.6342",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 557
+      "cited_by_count": 556
     },
     {
       "id": "https://openalex.org/W2135316123",
@@ -10796,12 +10831,12 @@
       "landing_page_url": "https://doi.org/10.1214/11-aos894",
       "open_access_url": "https://doi.org/10.1214/11-aos894",
       "is_retracted": false,
-      "cited_by_count": 599,
+      "cited_by_count": 597,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W2962769133",
           "source_url": "https://openalex.org/W2962769133",
-          "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "venue": "HAL",
           "doi": "10.1214/11-aos894",
           "open_access_url": "https://hal.science/hal-00676868"
         }
@@ -10851,12 +10886,12 @@
       "landing_page_url": "https://doi.org/10.1214/11-aos896",
       "open_access_url": "https://hal.science/hal-00652284v1",
       "is_retracted": false,
-      "cited_by_count": 343,
+      "cited_by_count": 342,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W2951941752",
           "source_url": "https://openalex.org/W2951941752",
-          "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "venue": "HAL",
           "doi": "10.48550/arxiv.1007.1771",
           "open_access_url": "https://hal.science/hal-00501509v1"
         }
@@ -10882,7 +10917,7 @@
       "landing_page_url": "https://doi.org/10.1214/11-ejs601",
       "open_access_url": "https://doi.org/10.1214/11-ejs601",
       "is_retracted": false,
-      "cited_by_count": 59,
+      "cited_by_count": 58,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W4362679600",
@@ -10909,7 +10944,7 @@
       "member_ids": [
         "karim-lounici"
       ],
-      "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "venue": "HAL",
       "landing_page_url": "https://hal.science/hal-00607297",
       "open_access_url": null,
       "is_retracted": false,
@@ -10961,7 +10996,7 @@
       "landing_page_url": "https://doi.org/10.1093/bioinformatics/btr638",
       "open_access_url": "https://doi.org/10.1093/bioinformatics/btr638",
       "is_retracted": false,
-      "cited_by_count": 771
+      "cited_by_count": 770
     },
     {
       "id": "https://openalex.org/W2128610923",
@@ -11037,7 +11072,7 @@
       "landing_page_url": "https://doi.org/10.1109/tit.2010.2069250",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 88
+      "cited_by_count": 86
     },
     {
       "id": "https://openalex.org/W2150979613",
@@ -11082,7 +11117,7 @@
       "landing_page_url": "https://doi.org/10.1214/10-aos836",
       "open_access_url": "https://doi.org/10.1214/10-aos836",
       "is_retracted": false,
-      "cited_by_count": 82
+      "cited_by_count": 81
     },
     {
       "id": "https://openalex.org/W2154389918",
@@ -11127,7 +11162,7 @@
       "landing_page_url": "http://arxiv.org/abs/0907.3740",
       "open_access_url": "http://arxiv.org/abs/0907.3740",
       "is_retracted": false,
-      "cited_by_count": 259
+      "cited_by_count": 258
     },
     {
       "id": "https://openalex.org/W80752073",
@@ -11329,7 +11364,7 @@
       "landing_page_url": "https://doi.org/10.1007/s10994-007-5040-8",
       "open_access_url": "https://doi.org/10.1007/s10994-007-5040-8",
       "is_retracted": false,
-      "cited_by_count": 1533
+      "cited_by_count": 1534
     },
     {
       "id": "https://openalex.org/W1993177744",
@@ -11400,10 +11435,10 @@
       "cited_by_count": 4
     },
     {
-      "id": "https://openalex.org/W4300044786",
+      "id": "https://openalex.org/W4375842777",
       "source": "OpenAlex",
-      "source_url": "https://openalex.org/W4300044786",
-      "doi": null,
+      "source_url": "https://openalex.org/W4375842777",
+      "doi": "10.48550/arxiv.0811.2281",
       "title": "High-dimensional stochastic optimization with the generalized Dantzig estimator",
       "publication_year": 2008,
       "publication_date": "2008-11-14",
@@ -11418,16 +11453,7 @@
       "landing_page_url": "http://arxiv.org/abs/0811.2281",
       "open_access_url": "http://arxiv.org/abs/0811.2281",
       "is_retracted": false,
-      "cited_by_count": 4,
-      "alternate_locations": [
-        {
-          "id": "https://openalex.org/W4375842777",
-          "source_url": "https://openalex.org/W4375842777",
-          "venue": null,
-          "doi": "10.48550/arxiv.0811.2281",
-          "open_access_url": "https://hal.science/hal-00338663v1"
-        }
-      ]
+      "cited_by_count": 4
     },
     {
       "id": "https://openalex.org/W749229220",
@@ -11514,7 +11540,7 @@
       "landing_page_url": "https://doi.org/10.1214/08-ejs177",
       "open_access_url": "https://doi.org/10.1214/08-ejs177",
       "is_retracted": false,
-      "cited_by_count": 153,
+      "cited_by_count": 152,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W3100190044",
@@ -11660,7 +11686,7 @@
       "landing_page_url": "https://doi.org/10.3103/s1066530707030040",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 27
+      "cited_by_count": 26
     },
     {
       "id": "https://openalex.org/W792521959",
@@ -11706,7 +11732,7 @@
       "landing_page_url": "https://doi.org/10.7551/mitpress/7503.003.0010",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 1376
+      "cited_by_count": 1375
     },
     {
       "id": "https://openalex.org/W2059571389",
@@ -11728,7 +11754,7 @@
       "landing_page_url": "https://doi.org/10.1007/s10208-006-0237-y",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 123
+      "cited_by_count": 122
     },
     {
       "id": "https://openalex.org/W2117012462",
@@ -11917,7 +11943,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.86.9708",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 808
+      "cited_by_count": 807
     },
     {
       "id": "https://openalex.org/W2121033924",
@@ -12093,7 +12119,7 @@
       "member_ids": [
         "saverio-salzo"
       ],
-      "venue": null,
+      "venue": "IEEE International Geoscience and Remote Sensing Symposium (IGARSS)",
       "landing_page_url": "https://doi.org/10.1109/igarss.2004.1369024",
       "open_access_url": null,
       "is_retracted": false,
@@ -12160,11 +12186,11 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": "ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)",
+      "venue": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)",
       "landing_page_url": "https://doi.org/10.1145/1014052.1014067",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 1472
+      "cited_by_count": 1471
     },
     {
       "id": "https://openalex.org/W2055979621",
@@ -12216,7 +12242,7 @@
       "title": "Combining flat and structured representations for fingerprint classification with recursive neural networks and support vector machines RID G-2944-2010",
       "publication_year": 2003,
       "publication_date": "2003-01-01",
-      "type": "other",
+      "type": "article",
       "authors": [
         "Y. Yao",
         "Gian Luca Marcialis",
@@ -12807,7 +12833,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.102.7476",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 991
+      "cited_by_count": 986
     },
     {
       "id": "https://openalex.org/W187881133",
@@ -12919,7 +12945,7 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": null,
+      "venue": "International Joint Conference on Neural Networks (IJCNN)",
       "landing_page_url": "https://doi.org/10.1109/ijcnn.2000.860771",
       "open_access_url": null,
       "is_retracted": false,
@@ -12970,7 +12996,7 @@
       "landing_page_url": "https://doi.org/10.1023/a:1018946025316",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 1197,
+      "cited_by_count": 1198,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W2533558946",
