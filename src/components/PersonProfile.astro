@@ -80,7 +80,7 @@ const emailFallback = email ? readableEmailFallback(email) : null;
         {person.data.linkedin_url && <SocialIcon platform="linkedin" href={person.data.linkedin_url} />}
         {person.data.x_url && <SocialIcon platform="x" href={person.data.x_url} />}
         {person.data.bluesky_url && <SocialIcon platform="bluesky" href={person.data.bluesky_url} />}
-        {person.data.openalex_ids.map((authorId, index) => (
+        {!person.data.hide_openalex_button && person.data.openalex_ids.map((authorId, index) => (
           <a class="button secondary" href={`https://openalex.org/${authorId}`}>
             OpenAlex{person.data.openalex_ids.length > 1 ? ` ${index + 1}` : ''}
           </a>

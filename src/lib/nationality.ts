@@ -11,6 +11,7 @@ export const NATIONALITIES: Record<string, string> = {
   IR: 'Iran',
   SE: 'Sweden',
   SG: 'Singapore',
+  ES: 'Spain',
 };
 
 export function countryName(code: string): string | null {

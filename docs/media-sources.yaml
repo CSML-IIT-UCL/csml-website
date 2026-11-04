@@ -246,6 +246,46 @@ assets:
     source_page: https://romilab.org
     checksum_sha256: d052896ca68e25c7890040f34e5625f638c908426358ea653d96365d17095c85
     approval_notes: Official Robot Motor Intelligence (RoMI) Lab logo, used unmodified to credit the external collaboration and link to the lab's homepage.
+  - local_path: media/people/timothee-devergne.jpg
+    source_url: https://cdn.bsky.app/img/avatar/plain/did:plc:msuqp3hbgdazxdswywcg76k7/bafkreiebypalfuarlusf5wn7ariwvokx26pl7hbwx2az7mqxu4627ijx5e
+    source_page: https://bsky.app/profile/tdevergne.bsky.social
+    checksum_sha256: e5f2b0e66bfca052281b254256ad0fb86ed22b5b4afc5707ab607ae17145074b
+    approval_notes: Avatar from the alumnus's own Bluesky profile, re-encoded from WebP to JPEG; migrated at the maintainer's request for the alumni section (retrieved 2026-11-04).
+  - local_path: media/people/pedro-buigues.jpg
+    source_url: https://avatars.githubusercontent.com/u/39701349?v=4
+    source_page: https://github.com/pedrojuanbj
+    checksum_sha256: a6f13d3c60f9af1b621c9e7bcdd708f947f8a472307dda7d30cef03680337b1e
+    approval_notes: Avatar from the alumnus's own GitHub profile, flattened and re-encoded from PNG to JPEG; migrated at the maintainer's request for the alumni section (retrieved 2026-11-04).
+  - local_path: media/people/arya-akhavan.jpg
+    source_url: https://aryaakhavan.github.io/avatar.jpg
+    source_page: https://aryaakhavan.github.io/
+    checksum_sha256: c528475c33f24d4516b19d72780017caca3b665d2b969301c792818dc74f86d6
+    approval_notes: Portrait from the alumnus's own site, cropped to the person; migrated at the maintainer's request for the alumni section (retrieved 2026-11-04).
+  - local_path: media/people/andrea-paudice.jpg
+    source_url: https://apaudice.github.io/subfiles/me.jpg
+    source_page: https://apaudice.github.io/
+    checksum_sha256: 36838b2725a54202177b92325a663e2809f84b373401349bb2bb5f324ace6e47
+    approval_notes: Portrait from the alumnus's own site, cropped square; migrated at the maintainer's request for the alumni section (retrieved 2026-11-04).
+  - local_path: media/people/jordan-patracone.jpg
+    source_url: https://jordan-patracone.com/images/identity.jpg
+    source_page: https://jordan-patracone.com/
+    checksum_sha256: 845c7b15cbe078f4a84f27cddbb13edc28185e2cb8a15e881ae9661f9007c523
+    approval_notes: Portrait from the alumnus's own site, unmodified; migrated at the maintainer's request for the alumni section (retrieved 2026-11-04).
+  - local_path: media/people/giulia-luise.jpg
+    source_url: https://giulslu.github.io/me.jpg
+    source_page: https://giulslu.github.io/
+    checksum_sha256: b83e14d4f42903041f4a7921dc4cf1f643348db8fbf173a9bf257f87c6613dba
+    approval_notes: Portrait from the alumnus's own site, cropped to the person; migrated at the maintainer's request for the alumni section (retrieved 2026-11-04).
+  - local_path: media/people/emmanuel-esposito.jpg
+    source_url: https://emmanuelesposito.it/assets/img/me.png
+    source_page: https://emmanuelesposito.it/
+    checksum_sha256: 9a5741e4a417e4df9825ee7da79509d5eb2ef441bddc86b2c555dad1f3dc461a
+    approval_notes: Portrait from the alumnus's own site, flattened and re-encoded from PNG to JPEG; migrated at the maintainer's request for the alumni section (retrieved 2026-11-04).
+  - local_path: media/flags/es.svg
+    source_url: https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/es.svg
+    source_page: https://github.com/lipis/flag-icons
+    checksum_sha256: f9cfaff858e95f830733ade9591037b5322dfb5827a53b70956a3d190bb49b9a
+    approval_notes: Rectangular flag icon from the flag-icons project (MIT, see docs/licenses/flag-icons-MIT.txt), used as the person-profile nationality badge for Spain.
 blockers:
   - kind: missing-logo
     source_page: https://atsim.iit.it

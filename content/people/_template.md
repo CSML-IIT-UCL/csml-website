@@ -51,6 +51,8 @@ current_affiliation: null
 media_links: []
 # Verified OpenAlex author IDs
 openalex_ids: []
+# Set true to hide the OpenAlex button on this profile (publications are unaffected)
+hide_openalex_button: false
 # Publication collection settings
 publications:
   # Included in publication collection

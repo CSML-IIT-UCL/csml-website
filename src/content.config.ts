@@ -59,6 +59,8 @@ const people = defineCollection({
     current_affiliation: z.string().min(1).nullable().optional(),
     media_links: z.array(z.object({ label: z.string().min(1), url: z.string().url(URL_MESSAGE).startsWith('https://', HTTPS_MESSAGE) })).default([]),
     openalex_ids: z.array(z.string().regex(/^A\d+$/, 'must be a verified OpenAlex Author ID: an uppercase "A" followed by digits only, e.g. "A5089972466" (not a Work ID starting with "W", and not a bare number)')).default([]),
+    // Hides the OpenAlex button on this person's profile; publications are unaffected.
+    hide_openalex_button: z.boolean().default(false),
     publications: z.object({
       enabled: z.boolean().default(true),
       include_in_team_list: z.boolean().default(true),

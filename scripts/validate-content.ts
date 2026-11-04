@@ -33,6 +33,7 @@ const personSchema = z.object({
   bluesky_url: z.string().url(URL_MESSAGE).startsWith('https://', HTTPS_MESSAGE).nullable().optional(),
   current_affiliation: z.string().min(1).nullable().optional(),
   openalex_ids: z.array(z.string().regex(/^A\d+$/, 'must be a verified OpenAlex Author ID: an uppercase "A" followed by digits only, e.g. "A5089972466" (not a Work ID starting with "W", and not a bare number)')),
+  hide_openalex_button: z.boolean().optional(),
   publications: z.object({
     enabled: z.boolean(),
     include_in_team_list: z.boolean(),
