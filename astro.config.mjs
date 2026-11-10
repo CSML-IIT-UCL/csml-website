@@ -1,5 +1,7 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import { satteri } from '@astrojs/markdown-satteri';
+import { baseLinksPlugin } from './src/lib/markdown-base-links.mjs';
 
 const site = process.env.SITE_ORIGIN ?? 'https://csml-iit-ucl.github.io';
 const base = process.env.SITE_BASE_PATH ?? '/csml-website/';
@@ -14,6 +16,10 @@ export default defineConfig({
   trailingSlash: 'always',
   outDir: process.env.BUILD_OUT_DIR ?? './dist',
   integrations: isStaging ? [] : [sitemap()],
+  markdown: {
+    // Root-relative links in content Markdown (e.g. /people/<id>/) get the site base.
+    processor: satteri({ hastPlugins: [baseLinksPlugin(base)] }),
+  },
   build: {
     format: 'directory',
   },
