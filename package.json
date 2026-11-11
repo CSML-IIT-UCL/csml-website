@@ -28,6 +28,7 @@
     "blogs:update": "node scripts/update-blogs.mjs"
   },
   "dependencies": {
+    "@astrojs/markdown-satteri": "0.4.3",
     "@astrojs/sitemap": "3.7.4",
     "astro": "7.3.8",
     "js-yaml": "5.4.3",
