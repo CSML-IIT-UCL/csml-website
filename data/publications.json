@@ -1,7 +1,7 @@
 {
   "version": 1,
   "source": "OpenAlex",
-  "last_full_refresh_at": "2026-11-08T09:49:11.551739Z",
+  "last_full_refresh_at": "2026-11-15T10:19:05.313861Z",
   "author_roster_signature": "e489e25869967bed2529cda6d2dc94a82688d40ef77b0ad12d092990e4d06352",
   "queried_author_ids": [
     "A5000582003",
@@ -33,7 +33,7 @@
       "author_ids": [
         "A5089972466"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 9,
       "status": "complete"
     },
@@ -41,15 +41,15 @@
       "author_ids": [
         "A5069560062"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
-      "works_count": 4,
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
+      "works_count": 5,
       "status": "complete"
     },
     "alek-frohlich": {
       "author_ids": [
         "A5104181387"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 7,
       "status": "complete"
     },
@@ -57,7 +57,7 @@
       "author_ids": [
         "A5122991001"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 7,
       "status": "complete"
     },
@@ -65,7 +65,7 @@
       "author_ids": [
         "A5035003258"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 17,
       "status": "complete"
     },
@@ -73,7 +73,7 @@
       "author_ids": [
         "A5003851001"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 55,
       "status": "complete"
     },
@@ -81,7 +81,7 @@
       "author_ids": [
         "A5021345394"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 24,
       "status": "complete"
     },
@@ -89,7 +89,7 @@
       "author_ids": [
         "A5083456765"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 97,
       "status": "complete"
     },
@@ -97,7 +97,7 @@
       "author_ids": [
         "A5099860126"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 2,
       "status": "complete"
     },
@@ -105,7 +105,7 @@
       "author_ids": [
         "A5034260726"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 270,
       "status": "complete"
     },
@@ -113,7 +113,7 @@
       "author_ids": [
         "A5050747663"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 23,
       "status": "complete"
     },
@@ -121,15 +121,15 @@
       "author_ids": [
         "A5017463552"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
-      "works_count": 47,
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
+      "works_count": 48,
       "status": "complete"
     },
     "vladimir-kostic": {
       "author_ids": [
         "A5109598009"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 7,
       "status": "complete"
     },
@@ -137,7 +137,7 @@
       "author_ids": [
         "A5025124468"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 20,
       "status": "complete"
     },
@@ -145,7 +145,7 @@
       "author_ids": [
         "A5126083601"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 2,
       "status": "complete"
     },
@@ -153,7 +153,7 @@
       "author_ids": [
         "A5003642841"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 13,
       "status": "complete"
     },
@@ -161,7 +161,7 @@
       "author_ids": [
         "A5069069176"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 8,
       "status": "complete"
     },
@@ -169,7 +169,7 @@
       "author_ids": [
         "A5042803641"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 9,
       "status": "complete"
     },
@@ -177,7 +177,7 @@
       "author_ids": [
         "A5031096722"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 30,
       "status": "complete"
     },
@@ -186,7 +186,7 @@
         "A5006434696",
         "A5094235262"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 34,
       "status": "complete"
     },
@@ -194,7 +194,7 @@
       "author_ids": [
         "A5000582003"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
       "works_count": 21,
       "status": "complete"
     },
@@ -202,8 +202,8 @@
       "author_ids": [
         "A5036642346"
       ],
-      "last_successful_refresh_at": "2026-11-08T09:49:11.551739Z",
-      "works_count": 20,
+      "last_successful_refresh_at": "2026-11-15T10:19:05.313861Z",
+      "works_count": 21,
       "status": "complete"
     }
   },
@@ -363,7 +363,7 @@
       ],
       "venue": "SIAM Journal on Mathematics of Data Science",
       "landing_page_url": "https://doi.org/10.1137/24m1632097",
-      "open_access_url": "https://doi.org/10.1137/24m1632097",
+      "open_access_url": "http://arxiv.org/abs/2312.17348",
       "is_retracted": false,
       "cited_by_count": 5
     },
@@ -409,8 +409,8 @@
         "jordan-patracone"
       ],
       "venue": "HAL",
-      "landing_page_url": "https://hal.science/hal-05789261",
-      "open_access_url": "https://hal.science/hal-05789261",
+      "landing_page_url": "https://hal.science/hal-05789261v1",
+      "open_access_url": "https://hal.science/hal-05789261v1",
       "is_retracted": false,
       "cited_by_count": 0
     },
@@ -555,8 +555,8 @@
         "andrea-paudice"
       ],
       "venue": "arXiv (Cornell University)",
-      "landing_page_url": "https://doi.org/10.48550/arxiv.2611.08457",
-      "open_access_url": "https://doi.org/10.48550/arxiv.2611.08457",
+      "landing_page_url": "https://arxiv.org/abs/2611.08457",
+      "open_access_url": "https://arxiv.org/abs/2611.08457",
       "is_retracted": false,
       "cited_by_count": 0
     },
@@ -565,7 +565,7 @@
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W7213462374",
       "doi": "10.1007/978-981-92-5190-2",
-      "title": "AI for Aging, Rehabilitation and Intelligent Assisted Living",
+      "title": "AI for Aging, Rehabilitation and Intelligent Assisted Living: The 9th Workshop ARIAL@IJCAI, IJCAI 2026, Bremen, Germany, August 17, 2026, Proceedings",
       "publication_year": 2026,
       "publication_date": "2026-09-17",
       "type": "conference-paper",
@@ -767,6 +767,28 @@
       "cited_by_count": 1
     },
     {
+      "id": "https://openalex.org/W7226038556",
+      "source": "OpenAlex",
+      "source_url": "https://openalex.org/W7226038556",
+      "doi": "10.1137/1.9781611979329.16",
+      "title": "Enhancing Contrastive Representation Learning on Bipartite Graphs with Dynamic Adversarial Perturbation",
+      "publication_year": 2026,
+      "publication_date": "2026-10-31",
+      "type": "conference-paper",
+      "authors": [
+        "Erfan Mirzaei",
+        "Kishlay Jha"
+      ],
+      "member_ids": [
+        "erfan-mirzaei"
+      ],
+      "venue": "Society for Industrial and Applied Mathematics eBooks",
+      "landing_page_url": "https://doi.org/10.1137/1.9781611979329.16",
+      "open_access_url": null,
+      "is_retracted": false,
+      "cited_by_count": 0
+    },
+    {
       "id": "https://openalex.org/W7162654697",
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W7162654697",
@@ -802,7 +824,7 @@
       "doi": "10.1016/j.cag.2026.104782",
       "title": "Gaussian splatting for surface reconstruction: A survey",
       "publication_year": 2026,
-      "publication_date": "2026-10-01",
+      "publication_date": "2026-10-14",
       "type": "article",
       "authors": [
         "Vitor P. Matias",
@@ -843,6 +865,33 @@
       "venue": "IEEE Conference on Artificial Intelligence (CAI)",
       "landing_page_url": "https://doi.org/10.1109/cai68641.2026.11536627",
       "open_access_url": null,
+      "is_retracted": false,
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W7225695334",
+      "source": "OpenAlex",
+      "source_url": "https://openalex.org/W7225695334",
+      "doi": "10.48550/arxiv.2611.12696",
+      "title": "Generalized Adaptive Boosting and the Geometry of Mistakes",
+      "publication_year": 2026,
+      "publication_date": "2026-11-09",
+      "type": "preprint",
+      "authors": [
+        "Marco Bressan",
+        "Nataly Brukhim",
+        "Nicolò Cesa‐Bianchi",
+        "Emmanuel Esposito",
+        "Yishay Mansour",
+        "Shay Moran",
+        "Maximilian Thiessen"
+      ],
+      "member_ids": [
+        "emmanuel-esposito"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "landing_page_url": "https://arxiv.org/abs/2611.12696",
+      "open_access_url": "https://arxiv.org/abs/2611.12696",
       "is_retracted": false,
       "cited_by_count": 0
     },
@@ -900,7 +949,7 @@
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W7147144553",
       "doi": "10.1007/978-3-032-06057-0",
-      "title": "High Dimensional Probability X",
+      "title": "High Dimensional Probability X: The Będlewo Volume",
       "publication_year": 2026,
       "publication_date": "2026-01-01",
       "type": "book",
@@ -1352,7 +1401,7 @@
       "landing_page_url": "https://doi.org/10.1021/jacs.6c10146",
       "open_access_url": "https://doi.org/10.1021/jacs.6c10146",
       "is_retracted": false,
-      "cited_by_count": 2
+      "cited_by_count": 3
     },
     {
       "id": "https://openalex.org/W7224932886",
@@ -1423,8 +1472,8 @@
         "emmanuel-esposito"
       ],
       "venue": "arXiv (Cornell University)",
-      "landing_page_url": "https://doi.org/10.48550/arxiv.2611.07773",
-      "open_access_url": "https://doi.org/10.48550/arxiv.2611.07773",
+      "landing_page_url": "https://arxiv.org/abs/2611.07773",
+      "open_access_url": "https://arxiv.org/abs/2611.07773",
       "is_retracted": false,
       "cited_by_count": 0
     },
@@ -1656,7 +1705,7 @@
       "landing_page_url": "http://arxiv.org/abs/2601.11265",
       "open_access_url": "http://arxiv.org/abs/2601.11265",
       "is_retracted": false,
-      "cited_by_count": 0
+      "cited_by_count": 1
     },
     {
       "id": "https://openalex.org/W7127280647",
@@ -1855,7 +1904,7 @@
       "landing_page_url": "https://doi.org/10.6084/m9.figshare.c.8351256",
       "open_access_url": "https://doi.org/10.6084/m9.figshare.c.8351256",
       "is_retracted": false,
-      "cited_by_count": 0
+      "cited_by_count": 1
     },
     {
       "id": "https://openalex.org/W7213456404",
@@ -1957,6 +2006,30 @@
       "cited_by_count": 0
     },
     {
+      "id": "https://openalex.org/W7225746547",
+      "source": "OpenAlex",
+      "source_url": "https://openalex.org/W7225746547",
+      "doi": "10.48550/arxiv.2611.10268",
+      "title": "Transport Less, Solve Faster: Exploiting sparsity in algorithm design for Unbalanced Optimal Transport",
+      "publication_year": 2026,
+      "publication_date": "2026-11-06",
+      "type": "preprint",
+      "authors": [
+        "Gennaro Auricchio",
+        "Francesco Rinaldi",
+        "Saverio Salzo",
+        "Giovanni Spisso"
+      ],
+      "member_ids": [
+        "saverio-salzo"
+      ],
+      "venue": "arXiv (Cornell University)",
+      "landing_page_url": "https://arxiv.org/abs/2611.10268",
+      "open_access_url": "https://arxiv.org/abs/2611.10268",
+      "is_retracted": false,
+      "cited_by_count": 0
+    },
+    {
       "id": "https://openalex.org/W7130517020",
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W7130517020",
@@ -2004,7 +2077,7 @@
       "landing_page_url": "https://arxiv.org/abs/2601.06597",
       "open_access_url": "https://arxiv.org/abs/2601.06597",
       "is_retracted": false,
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W7153621101",
@@ -2037,7 +2110,7 @@
       "landing_page_url": "https://arxiv.org/abs/2610.28058",
       "open_access_url": "https://arxiv.org/abs/2610.28058",
       "is_retracted": false,
-      "cited_by_count": 0
+      "cited_by_count": 1
     },
     {
       "id": "https://openalex.org/W7128500758",
@@ -2194,7 +2267,7 @@
       "landing_page_url": "https://arxiv.org/abs/2506.14665",
       "open_access_url": "https://arxiv.org/abs/2506.14665",
       "is_retracted": false,
-      "cited_by_count": 59
+      "cited_by_count": 63
     },
     {
       "id": "https://openalex.org/W4416287530",
@@ -2366,7 +2439,7 @@
       "landing_page_url": "https://doi.org/10.52202/085713-5141",
       "open_access_url": "http://arxiv.org/abs/2502.10297",
       "is_retracted": false,
-      "cited_by_count": 64
+      "cited_by_count": 66
     },
     {
       "id": "https://openalex.org/W4413870465",
@@ -2566,7 +2639,7 @@
       "landing_page_url": "https://doi.org/10.1038/s41524-025-01779-z",
       "open_access_url": "https://doi.org/10.1038/s41524-025-01779-z",
       "is_retracted": false,
-      "cited_by_count": 20
+      "cited_by_count": 21
     },
     {
       "id": "https://openalex.org/W4417136277",
@@ -2596,7 +2669,7 @@
       "landing_page_url": "https://doi.org/10.52202/085713-5118",
       "open_access_url": "http://arxiv.org/abs/2510.09537",
       "is_retracted": false,
-      "cited_by_count": 3
+      "cited_by_count": 4
     },
     {
       "id": "https://openalex.org/W4410127570",
@@ -2643,7 +2716,7 @@
       "landing_page_url": "https://doi.org/10.1088/2053-1583/ae2692",
       "open_access_url": "https://doi.org/10.1088/2053-1583/ae2692",
       "is_retracted": false,
-      "cited_by_count": 3
+      "cited_by_count": 4
     },
     {
       "id": "https://openalex.org/W4416183435",
@@ -2744,7 +2817,7 @@
       "landing_page_url": "https://doi.org/10.1561/2200000088",
       "open_access_url": "http://arxiv.org/abs/2410.22854",
       "is_retracted": false,
-      "cited_by_count": 90
+      "cited_by_count": 94
     },
     {
       "id": "https://openalex.org/W4412064243",
@@ -2848,7 +2921,7 @@
       "landing_page_url": "https://doi.org/10.1214/25-sts994",
       "open_access_url": "http://arxiv.org/abs/2205.15100",
       "is_retracted": false,
-      "cited_by_count": 4
+      "cited_by_count": 5
     },
     {
       "id": "https://openalex.org/W4411682493",
@@ -2878,7 +2951,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.smhl.2025.100596",
       "open_access_url": "https://doi.org/10.1016/j.smhl.2025.100596",
       "is_retracted": false,
-      "cited_by_count": 8
+      "cited_by_count": 9
     },
     {
       "id": "https://openalex.org/W4406236045",
@@ -2908,7 +2981,7 @@
       "landing_page_url": "https://doi.org/10.1177/02783649241282422",
       "open_access_url": "http://arxiv.org/abs/2402.15552",
       "is_retracted": false,
-      "cited_by_count": 19
+      "cited_by_count": 20
     },
     {
       "id": "https://openalex.org/W4416098782",
@@ -3151,7 +3224,7 @@
       ],
       "venue": "The Journal of Chemical Physics",
       "landing_page_url": "https://doi.org/10.1063/5.0246248",
-      "open_access_url": "https://doi.org/10.26434/chemrxiv-2024-8752d",
+      "open_access_url": "https://doi.org/10.26434/chemrxiv-2024-8752d-v2",
       "is_retracted": false,
       "cited_by_count": 6
     },
@@ -3261,7 +3334,7 @@
       "landing_page_url": "https://doi.org/10.1038/s42005-025-02086-1",
       "open_access_url": "https://doi.org/10.1038/s42005-025-02086-1",
       "is_retracted": false,
-      "cited_by_count": 29
+      "cited_by_count": 32
     },
     {
       "id": "https://openalex.org/W4415285713",
@@ -3516,7 +3589,7 @@
       "landing_page_url": "https://doi.org/10.1007/s10877-024-01157-y",
       "open_access_url": "https://doi.org/10.1007/s10877-024-01157-y",
       "is_retracted": false,
-      "cited_by_count": 42
+      "cited_by_count": 45
     },
     {
       "id": "https://openalex.org/W4403820306",
@@ -3615,7 +3688,7 @@
       "landing_page_url": "http://dx.doi.org/10.1109/access.2024.3487273",
       "open_access_url": "http://dx.doi.org/10.1109/access.2024.3487273",
       "is_retracted": false,
-      "cited_by_count": 0
+      "cited_by_count": 1
     },
     {
       "id": "https://openalex.org/W4392974802",
@@ -3686,7 +3759,7 @@
       "landing_page_url": "https://doi.org/10.1103/physreve.110.l033301",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 4
+      "cited_by_count": 5
     },
     {
       "id": "https://openalex.org/W7120454169",
@@ -3793,7 +3866,7 @@
       "landing_page_url": "https://doi.org/10.52202/079017-2404",
       "open_access_url": "http://arxiv.org/abs/2406.09028",
       "is_retracted": false,
-      "cited_by_count": 8
+      "cited_by_count": 9
     },
     {
       "id": "https://openalex.org/W4403016912",
@@ -3819,9 +3892,9 @@
       ],
       "venue": "Computers & Graphics",
       "landing_page_url": "https://doi.org/10.1016/j.cag.2024.104085",
-      "open_access_url": "https://doi.org/10.2139/ssrn.4772792",
+      "open_access_url": "http://arxiv.org/abs/2511.07206",
       "is_retracted": false,
-      "cited_by_count": 14
+      "cited_by_count": 15
     },
     {
       "id": "https://openalex.org/W4403308611",
@@ -3845,7 +3918,7 @@
       ],
       "venue": "SIAM Journal on Mathematics of Data Science",
       "landing_page_url": "https://doi.org/10.1137/22m1536558",
-      "open_access_url": "https://doi.org/10.1137/22m1536558",
+      "open_access_url": "http://arxiv.org/abs/2208.08567",
       "is_retracted": false,
       "cited_by_count": 11
     },
@@ -4015,7 +4088,7 @@
       "landing_page_url": "https://doi.org/10.1109/tnnls.2024.3360641",
       "open_access_url": "https://doi.org/10.1109/tnnls.2024.3360641",
       "is_retracted": false,
-      "cited_by_count": 8
+      "cited_by_count": 9
     },
     {
       "id": "https://openalex.org/W4406923191",
@@ -4042,7 +4115,7 @@
       "landing_page_url": "https://doi.org/10.52202/079017-4377",
       "open_access_url": "http://arxiv.org/abs/2405.12940",
       "is_retracted": false,
-      "cited_by_count": 8
+      "cited_by_count": 10
     },
     {
       "id": "https://openalex.org/W4405785545",
@@ -4148,7 +4221,7 @@
       "landing_page_url": "http://arxiv.org/abs/2407.14303",
       "open_access_url": "http://arxiv.org/abs/2407.14303",
       "is_retracted": false,
-      "cited_by_count": 6
+      "cited_by_count": 7
     },
     {
       "id": "https://openalex.org/W4402034372",
@@ -4262,7 +4335,7 @@
       "landing_page_url": "https://doi.org/10.1109/access.2023.3349019",
       "open_access_url": "https://doi.org/10.1109/access.2023.3349019",
       "is_retracted": false,
-      "cited_by_count": 178
+      "cited_by_count": 180
     },
     {
       "id": "https://openalex.org/W4415795726",
@@ -4425,7 +4498,7 @@
       "landing_page_url": "http://arxiv.org/abs/2411.12537",
       "open_access_url": "http://arxiv.org/abs/2411.12537",
       "is_retracted": false,
-      "cited_by_count": 38
+      "cited_by_count": 42
     },
     {
       "id": "https://openalex.org/W4401253340",
@@ -4585,7 +4658,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.engappai.2023.106463",
       "open_access_url": "https://doi.org/10.1016/j.engappai.2023.106463",
       "is_retracted": false,
-      "cited_by_count": 21
+      "cited_by_count": 22
     },
     {
       "id": "https://openalex.org/W4381620925",
@@ -4610,7 +4683,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.compbiomed.2023.107188",
       "open_access_url": "https://doi.org/10.1016/j.compbiomed.2023.107188",
       "is_retracted": false,
-      "cited_by_count": 45
+      "cited_by_count": 46
     },
     {
       "id": "https://openalex.org/W4384390126",
@@ -4620,7 +4693,7 @@
       "title": "An Improved Uniform Convergence Bound with Fat-Shattering Dimension",
       "publication_year": 2023,
       "publication_date": "2023-07-13",
-      "type": "article",
+      "type": "preprint",
       "authors": [
         "Roberto Colomboni",
         "Emmanuel Esposito",
@@ -4907,7 +4980,7 @@
       "landing_page_url": "http://arxiv.org/abs/2305.18353",
       "open_access_url": "http://arxiv.org/abs/2305.18353",
       "is_retracted": false,
-      "cited_by_count": 11
+      "cited_by_count": 12
     },
     {
       "id": "https://openalex.org/W4387500766",
@@ -4964,7 +5037,7 @@
       "landing_page_url": "https://doi.org/10.52202/075280-3378",
       "open_access_url": "http://arxiv.org/abs/2306.04520",
       "is_retracted": false,
-      "cited_by_count": 11
+      "cited_by_count": 13
     },
     {
       "id": "https://openalex.org/W4323668121",
@@ -4990,7 +5063,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.asoc.2023.110191",
       "open_access_url": "https://doi.org/10.1016/j.asoc.2023.110191",
       "is_retracted": false,
-      "cited_by_count": 22
+      "cited_by_count": 23
     },
     {
       "id": "https://openalex.org/W4389714341",
@@ -5022,7 +5095,7 @@
       "title": "Gradient-free optimization of highly smooth functions: improved analysis and a new algorithm",
       "publication_year": 2023,
       "publication_date": "2023-06-03",
-      "type": "article",
+      "type": "preprint",
       "authors": [
         "Arya Akhavan",
         "Evgenii Chzhen",
@@ -5037,14 +5110,14 @@
       "landing_page_url": "https://hal.science/hal-04275558",
       "open_access_url": "https://hal.science/hal-04275558",
       "is_retracted": false,
-      "cited_by_count": 13
+      "cited_by_count": 16
     },
     {
       "id": "https://openalex.org/W4379409699",
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W4379409699",
       "doi": "10.1007/978-3-031-26979-0",
-      "title": "High Dimensional Probability IX",
+      "title": "High Dimensional Probability IX: The Ethereal Volume",
       "publication_year": 2023,
       "publication_date": "2023-01-01",
       "type": "book",
@@ -5086,7 +5159,7 @@
       "landing_page_url": "https://doi.org/10.1007/s11042-023-17591-0",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 20
+      "cited_by_count": 21
     },
     {
       "id": "https://openalex.org/W4384615983",
@@ -5319,7 +5392,7 @@
       "landing_page_url": "http://arxiv.org/abs/2302.02941",
       "open_access_url": "http://arxiv.org/abs/2302.02941",
       "is_retracted": false,
-      "cited_by_count": 48
+      "cited_by_count": 51
     },
     {
       "id": "https://openalex.org/W4378498571",
@@ -5442,7 +5515,7 @@
       "landing_page_url": "https://doi.org/10.3390/electronics12102338",
       "open_access_url": "https://doi.org/10.3390/electronics12102338",
       "is_retracted": false,
-      "cited_by_count": 32
+      "cited_by_count": 33
     },
     {
       "id": "https://openalex.org/W6996153154",
@@ -5573,7 +5646,7 @@
       "landing_page_url": "http://arxiv.org/abs/2306.01589",
       "open_access_url": "http://arxiv.org/abs/2306.01589",
       "is_retracted": false,
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W7133238918",
@@ -5606,7 +5679,7 @@
       "landing_page_url": "https://doi.org/10.3758/s13423-023-02297-z",
       "open_access_url": "https://doi.org/10.3758/s13423-023-02297-z",
       "is_retracted": false,
-      "cited_by_count": 7
+      "cited_by_count": 10
     },
     {
       "id": "https://openalex.org/W4282052470",
@@ -5630,7 +5703,7 @@
       "landing_page_url": "http://arxiv.org/abs/2205.13910",
       "open_access_url": "http://arxiv.org/abs/2205.13910",
       "is_retracted": false,
-      "cited_by_count": 11,
+      "cited_by_count": 13,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W4296548467",
@@ -5954,7 +6027,7 @@
       "landing_page_url": "https://doi.org/10.1021/acs.jctc.2c00400",
       "open_access_url": "https://hal.sorbonne-universite.fr/hal-03927894",
       "is_retracted": false,
-      "cited_by_count": 36
+      "cited_by_count": 38
     },
     {
       "id": "https://openalex.org/W4226522719",
@@ -6006,7 +6079,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.isci.2022.105550",
       "open_access_url": "https://doi.org/10.1016/j.isci.2022.105550",
       "is_retracted": false,
-      "cited_by_count": 13
+      "cited_by_count": 14
     },
     {
       "id": "https://openalex.org/W4211021476",
@@ -6112,7 +6185,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.compind.2022.103786",
       "open_access_url": "https://doi.org/10.1016/j.compind.2022.103786",
       "is_retracted": false,
-      "cited_by_count": 26
+      "cited_by_count": 27
     },
     {
       "id": "https://openalex.org/W4386470485",
@@ -6211,7 +6284,7 @@
       "landing_page_url": "https://doi.org/10.1007/s10845-022-01960-x",
       "open_access_url": "https://doi.org/10.1007/s10845-022-01960-x",
       "is_retracted": false,
-      "cited_by_count": 313
+      "cited_by_count": 318
     },
     {
       "id": "https://openalex.org/W7133215511",
@@ -6260,7 +6333,7 @@
       "landing_page_url": "http://arxiv.org/abs/2202.01185",
       "open_access_url": "http://arxiv.org/abs/2202.01185",
       "is_retracted": false,
-      "cited_by_count": 14
+      "cited_by_count": 15
     },
     {
       "id": "https://openalex.org/W7160496877",
@@ -6424,7 +6497,7 @@
       "landing_page_url": "http://arxiv.org/abs/2206.05262",
       "open_access_url": "http://arxiv.org/abs/2206.05262",
       "is_retracted": false,
-      "cited_by_count": 20
+      "cited_by_count": 22
     },
     {
       "id": "https://openalex.org/W4283768798",
@@ -6477,7 +6550,7 @@
       "landing_page_url": "http://arxiv.org/abs/2202.10066",
       "open_access_url": "http://arxiv.org/abs/2202.10066",
       "is_retracted": false,
-      "cited_by_count": 11
+      "cited_by_count": 12
     },
     {
       "id": "https://openalex.org/W4286268364",
@@ -6610,7 +6683,7 @@
       "landing_page_url": "http://arxiv.org/abs/2210.05561",
       "open_access_url": "http://arxiv.org/abs/2210.05561",
       "is_retracted": false,
-      "cited_by_count": 11
+      "cited_by_count": 12
     },
     {
       "id": "https://openalex.org/W4225318110",
@@ -6656,7 +6729,7 @@
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W4280488859",
       "doi": "10.1007/s10440-022-00494-x",
-      "title": "Sliding Window Strategy for Convolutional Spike Sorting with Lasso",
+      "title": "Sliding Window Strategy for Convolutional Spike Sorting with Lasso: Algorithm, Theoretical Guarantees and Complexity",
       "publication_year": 2022,
       "publication_date": "2022-05-11",
       "type": "article",
@@ -6864,9 +6937,9 @@
       ],
       "venue": "Pattern Recognition",
       "landing_page_url": "https://doi.org/10.1016/j.patcog.2021.108197",
-      "open_access_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8295058",
+      "open_access_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8295058/",
       "is_retracted": false,
-      "cited_by_count": 52
+      "cited_by_count": 53
     },
     {
       "id": "https://openalex.org/W4206682107",
@@ -6917,7 +6990,7 @@
       "landing_page_url": "https://doi.org/10.1609/icwsm.v5i1.14175",
       "open_access_url": "https://doi.org/10.1609/icwsm.v5i1.14175",
       "is_retracted": false,
-      "cited_by_count": 493
+      "cited_by_count": 492
     },
     {
       "id": "https://openalex.org/W3162723814",
@@ -6992,7 +7065,7 @@
       "landing_page_url": "https://doi.org/10.1007/978-3-030-68799-1_46",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 9
+      "cited_by_count": 10
     },
     {
       "id": "https://openalex.org/W4362524578",
@@ -7062,7 +7135,7 @@
       "landing_page_url": "http://arxiv.org/abs/2103.16277",
       "open_access_url": "http://arxiv.org/abs/2103.16277",
       "is_retracted": false,
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W7133229415",
@@ -7118,7 +7191,7 @@
       "landing_page_url": "http://arxiv.org/abs/2102.01121",
       "open_access_url": "http://arxiv.org/abs/2102.01121",
       "is_retracted": false,
-      "cited_by_count": 8
+      "cited_by_count": 9
     },
     {
       "id": "https://openalex.org/W3200086106",
@@ -7286,7 +7359,7 @@
       "landing_page_url": "https://doi.org/10.1109/jiot.2021.3073904",
       "open_access_url": "https://doi.org/10.1109/jiot.2021.3073904",
       "is_retracted": false,
-      "cited_by_count": 158
+      "cited_by_count": 159
     },
     {
       "id": "https://openalex.org/W3127297076",
@@ -7315,7 +7388,7 @@
       "landing_page_url": "https://doi.org/10.1038/s41598-021-82374-2",
       "open_access_url": "https://doi.org/10.1038/s41598-021-82374-2",
       "is_retracted": false,
-      "cited_by_count": 42
+      "cited_by_count": 45
     },
     {
       "id": "https://openalex.org/W3209322626",
@@ -7516,7 +7589,7 @@
       "landing_page_url": "http://arxiv.org/abs/2106.04462",
       "open_access_url": "http://arxiv.org/abs/2106.04462",
       "is_retracted": false,
-      "cited_by_count": 11
+      "cited_by_count": 10
     },
     {
       "id": "https://openalex.org/W3129844810",
@@ -7623,7 +7696,7 @@
       "landing_page_url": "https://doi.org/10.1038/s41567-021-01327-8",
       "open_access_url": "http://arxiv.org/abs/1910.07893",
       "is_retracted": false,
-      "cited_by_count": 112
+      "cited_by_count": 125
     },
     {
       "id": "https://openalex.org/W3169350591",
@@ -7735,7 +7808,7 @@
       "landing_page_url": "http://arxiv.org/abs/2101.01704",
       "open_access_url": "http://arxiv.org/abs/2101.01704",
       "is_retracted": false,
-      "cited_by_count": 3
+      "cited_by_count": 4
     },
     {
       "id": "https://openalex.org/W3193207068",
@@ -7911,7 +7984,7 @@
       "landing_page_url": "https://doi.org/10.53592/convtech.v3iiii.9",
       "open_access_url": "https://doi.org/10.53592/convtech.v3iiii.9",
       "is_retracted": false,
-      "cited_by_count": 1
+      "cited_by_count": 3
     },
     {
       "id": "https://openalex.org/W2795716956",
@@ -8030,7 +8103,7 @@
       "landing_page_url": "http://arxiv.org/abs/2002.08253",
       "open_access_url": "http://arxiv.org/abs/2002.08253",
       "is_retracted": false,
-      "cited_by_count": 28
+      "cited_by_count": 29
     },
     {
       "id": "https://openalex.org/W3021463136",
@@ -8055,7 +8128,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.artmed.2020.101847",
       "open_access_url": "https://hdl.handle.net/11566/280099",
       "is_retracted": false,
-      "cited_by_count": 48
+      "cited_by_count": 50
     },
     {
       "id": "https://openalex.org/W3013988467",
@@ -8101,7 +8174,7 @@
       "landing_page_url": "https://doi.org/10.53592/convtech.v3iiii.15",
       "open_access_url": "https://doi.org/10.53592/convtech.v3iiii.15",
       "is_retracted": false,
-      "cited_by_count": 1
+      "cited_by_count": 2
     },
     {
       "id": "https://openalex.org/W3100380158",
@@ -8171,7 +8244,7 @@
       "landing_page_url": "http://arxiv.org/abs/2006.07862",
       "open_access_url": "http://arxiv.org/abs/2006.07862",
       "is_retracted": false,
-      "cited_by_count": 23
+      "cited_by_count": 24
     },
     {
       "id": "https://openalex.org/W3105580455",
@@ -8248,7 +8321,7 @@
       "landing_page_url": "http://arxiv.org/abs/2006.07286",
       "open_access_url": "http://arxiv.org/abs/2006.07286",
       "is_retracted": false,
-      "cited_by_count": 59
+      "cited_by_count": 60
     },
     {
       "id": "https://openalex.org/W3041937667",
@@ -8274,7 +8347,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.compbiomed.2020.103912",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 47
+      "cited_by_count": 48
     },
     {
       "id": "https://openalex.org/W3102837403",
@@ -8325,7 +8398,7 @@
       "landing_page_url": "https://doi.org/10.1109/ijcnn48605.2020.9206819",
       "open_access_url": "http://arxiv.org/abs/1901.10080",
       "is_retracted": false,
-      "cited_by_count": 36
+      "cited_by_count": 38
     },
     {
       "id": "https://openalex.org/W3046187644",
@@ -8399,7 +8472,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.patrec.2020.02.017",
       "open_access_url": "https://doi.org/10.1016/j.patrec.2020.02.017",
       "is_retracted": false,
-      "cited_by_count": 430
+      "cited_by_count": 437
     },
     {
       "id": "https://openalex.org/W3035736507",
@@ -8449,7 +8522,7 @@
       "landing_page_url": "https://doi.org/10.24963/ijcai.2020/293",
       "open_access_url": "https://doi.org/10.24963/ijcai.2020/293",
       "is_retracted": false,
-      "cited_by_count": 24
+      "cited_by_count": 25
     },
     {
       "id": "https://openalex.org/W3011434396",
@@ -8645,7 +8718,7 @@
       "landing_page_url": "https://doi.org/10.1103/physrevb.102.125403",
       "open_access_url": "https://arxiv.org/abs/2005.09529",
       "is_retracted": false,
-      "cited_by_count": 57
+      "cited_by_count": 59
     },
     {
       "id": "https://openalex.org/W3035562355",
@@ -8690,7 +8763,7 @@
       "landing_page_url": "https://doi.org/10.53592/convtech.v4iiv.33",
       "open_access_url": "https://doi.org/10.53592/convtech.v4iiv.33",
       "is_retracted": false,
-      "cited_by_count": 2
+      "cited_by_count": 3
     },
     {
       "id": "https://openalex.org/W3015811760",
@@ -8796,7 +8869,7 @@
       "landing_page_url": "http://dx.doi.org/10.3390/info11040202",
       "open_access_url": "http://dx.doi.org/10.3390/info11040202",
       "is_retracted": false,
-      "cited_by_count": 169
+      "cited_by_count": 170
     },
     {
       "id": "https://openalex.org/W3024713218",
@@ -8844,7 +8917,7 @@
       "landing_page_url": "http://arxiv.org/abs/2008.10857",
       "open_access_url": "http://arxiv.org/abs/2008.10857",
       "is_retracted": false,
-      "cited_by_count": 16
+      "cited_by_count": 17
     },
     {
       "id": "https://openalex.org/W3034186152",
@@ -8867,7 +8940,7 @@
       "landing_page_url": "http://arxiv.org/abs/2002.03035",
       "open_access_url": "http://arxiv.org/abs/2002.03035",
       "is_retracted": false,
-      "cited_by_count": 12
+      "cited_by_count": 13
     },
     {
       "id": "https://openalex.org/W3185363497",
@@ -8907,9 +8980,9 @@
       "member_ids": [
         "giulia-luise"
       ],
-      "venue": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
-      "landing_page_url": "http://hdl.handle.net/10754/661742",
-      "open_access_url": "http://hdl.handle.net/10754/661742",
+      "venue": "arXiv (Cornell University)",
+      "landing_page_url": "https://arxiv.org/pdf/2002.03035",
+      "open_access_url": "https://arxiv.org/pdf/2002.03035",
       "is_retracted": false,
       "cited_by_count": 1
     },
@@ -8961,7 +9034,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.neucom.2018.10.104",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 200
+      "cited_by_count": 201
     },
     {
       "id": "https://openalex.org/W2921560334",
@@ -9058,7 +9131,7 @@
         "Tim Hahn",
         "Andreas Jochen Fallgatter",
         "John S. Shawe-Taylor",
-        "Janaı́na Mourão-Miranda"
+        "Janaína Mourão-Miranda"
       ],
       "member_ids": [
         "massimiliano-pontil"
@@ -9067,7 +9140,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.neuroimage.2019.01.053",
       "open_access_url": "https://doi.org/10.1016/j.neuroimage.2019.01.053",
       "is_retracted": false,
-      "cited_by_count": 19
+      "cited_by_count": 20
     },
     {
       "id": "https://openalex.org/W2945208306",
@@ -9090,7 +9163,7 @@
       "landing_page_url": "http://arxiv.org/abs/1905.10155",
       "open_access_url": "http://arxiv.org/abs/1905.10155",
       "is_retracted": false,
-      "cited_by_count": 25
+      "cited_by_count": 27
     },
     {
       "id": "https://openalex.org/W2974487951",
@@ -9163,7 +9236,7 @@
       "landing_page_url": "https://doi.org/10.1109/jbhi.2019.2899218",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 126
+      "cited_by_count": 127
     },
     {
       "id": "https://openalex.org/W3185451999",
@@ -9265,7 +9338,7 @@
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W4233882229",
       "doi": "10.1007/978-3-030-26391-1",
-      "title": "High Dimensional Probability VIII",
+      "title": "High Dimensional Probability VIII: The Oaxaca Volume",
       "publication_year": 2019,
       "publication_date": "2019-01-01",
       "type": "book",
@@ -9305,7 +9378,7 @@
       "landing_page_url": "https://doi.org/10.1007/978-3-030-13453-2_1",
       "open_access_url": "http://arxiv.org/abs/1803.00992",
       "is_retracted": false,
-      "cited_by_count": 173
+      "cited_by_count": 176
     },
     {
       "id": "https://openalex.org/W2953907992",
@@ -9353,7 +9426,7 @@
       "landing_page_url": "http://arxiv.org/abs/1903.11960",
       "open_access_url": "http://arxiv.org/abs/1903.11960",
       "is_retracted": false,
-      "cited_by_count": 275
+      "cited_by_count": 276
     },
     {
       "id": "https://openalex.org/W2954834570",
@@ -9377,7 +9450,7 @@
       "landing_page_url": "http://arxiv.org/abs/1906.10673",
       "open_access_url": "http://arxiv.org/abs/1906.10673",
       "is_retracted": false,
-      "cited_by_count": 11
+      "cited_by_count": 13
     },
     {
       "id": "https://openalex.org/W2923966100",
@@ -9401,7 +9474,7 @@
       "landing_page_url": "http://arxiv.org/abs/1903.10399",
       "open_access_url": "http://arxiv.org/abs/1903.10399",
       "is_retracted": false,
-      "cited_by_count": 58
+      "cited_by_count": 59
     },
     {
       "id": "https://openalex.org/W2951013194",
@@ -9477,7 +9550,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.eswa.2019.112869",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 100
+      "cited_by_count": 101
     },
     {
       "id": "https://openalex.org/W2921416117",
@@ -9678,7 +9751,7 @@
       "landing_page_url": "http://arxiv.org/abs/1905.13194",
       "open_access_url": "http://arxiv.org/abs/1905.13194",
       "is_retracted": false,
-      "cited_by_count": 20
+      "cited_by_count": 21
     },
     {
       "id": "https://openalex.org/W2895786087",
@@ -9702,7 +9775,7 @@
       "landing_page_url": "https://doi.org/10.1145/3306618.3314255",
       "open_access_url": "http://arxiv.org/abs/1810.08683",
       "is_retracted": false,
-      "cited_by_count": 71
+      "cited_by_count": 72
     },
     {
       "id": "https://openalex.org/W2951095152",
@@ -9729,7 +9802,7 @@
       "landing_page_url": "https://doi.org/10.1109/tnsre.2019.2923060",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 183
+      "cited_by_count": 184
     },
     {
       "id": "https://openalex.org/W2987439976",
@@ -10072,7 +10145,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.jstrokecerebrovasdis.2018.10.010",
       "open_access_url": "https://doi.org/10.1016/j.jstrokecerebrovasdis.2018.10.010",
       "is_retracted": false,
-      "cited_by_count": 1
+      "cited_by_count": 2
     },
     {
       "id": "https://openalex.org/W2785509559",
@@ -10096,7 +10169,7 @@
       "landing_page_url": "http://arxiv.org/abs/1802.03041",
       "open_access_url": "http://arxiv.org/abs/1802.03041",
       "is_retracted": false,
-      "cited_by_count": 174
+      "cited_by_count": 181
     },
     {
       "id": "https://openalex.org/W2786908278",
@@ -10192,7 +10265,7 @@
       "landing_page_url": "http://arxiv.org/abs/1802.08626",
       "open_access_url": "http://arxiv.org/abs/1802.08626",
       "is_retracted": false,
-      "cited_by_count": 190
+      "cited_by_count": 193
     },
     {
       "id": "https://openalex.org/W2808123587",
@@ -10423,7 +10496,7 @@
       "landing_page_url": "http://arxiv.org/abs/1803.08089",
       "open_access_url": "http://arxiv.org/abs/1803.08089",
       "is_retracted": false,
-      "cited_by_count": 30
+      "cited_by_count": 32
     },
     {
       "id": "https://openalex.org/W2787835268",
@@ -10521,7 +10594,7 @@
       "landing_page_url": "https://doi.org/10.1109/mesa.2018.8449150",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 329
+      "cited_by_count": 333
     },
     {
       "id": "https://openalex.org/W2889295853",
@@ -10601,7 +10674,7 @@
       "landing_page_url": "https://doi.org/10.1016/j.jstrokecerebrovasdis.2018.06.021",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 41
+      "cited_by_count": 42
     },
     {
       "id": "https://openalex.org/W2892169620",
@@ -10630,7 +10703,7 @@
       "landing_page_url": "https://doi.org/10.1038/s41598-018-31479-2",
       "open_access_url": "https://doi.org/10.1038/s41598-018-31479-2",
       "is_retracted": false,
-      "cited_by_count": 23
+      "cited_by_count": 25
     },
     {
       "id": "https://openalex.org/W2736592352",
@@ -10657,7 +10730,7 @@
       "landing_page_url": "https://doi.org/10.1098/rspa.2017.0551",
       "open_access_url": "https://doi.org/10.1098/rspa.2017.0551",
       "is_retracted": false,
-      "cited_by_count": 552
+      "cited_by_count": 559
     },
     {
       "id": "https://openalex.org/W2963363565",
@@ -11031,7 +11104,7 @@
       "landing_page_url": "http://arxiv.org/abs/1703.01785",
       "open_access_url": "http://arxiv.org/abs/1703.01785",
       "is_retracted": false,
-      "cited_by_count": 164
+      "cited_by_count": 166
     },
     {
       "id": "https://openalex.org/W2732937366",
@@ -11201,7 +11274,7 @@
       "landing_page_url": "https://doi.org/10.1109/icce.2017.7889247",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 107
+      "cited_by_count": 108
     },
     {
       "id": "https://openalex.org/W2736654227",
@@ -11224,7 +11297,7 @@
       "landing_page_url": "http://arxiv.org/abs/1707.05609",
       "open_access_url": "http://arxiv.org/abs/1707.05609",
       "is_retracted": false,
-      "cited_by_count": 2
+      "cited_by_count": 3
     },
     {
       "id": "https://openalex.org/W2587862394",
@@ -11238,7 +11311,7 @@
       "authors": [
         "Luca Baldassarre",
         "Massimiliano Pontil",
-        "Janaı́na Mourão-Miranda"
+        "Janaína Mourão-Miranda"
       ],
       "member_ids": [
         "massimiliano-pontil"
@@ -11247,7 +11320,7 @@
       "landing_page_url": "https://doi.org/10.3389/fnins.2017.00062",
       "open_access_url": "https://doi.org/10.3389/fnins.2017.00062",
       "is_retracted": false,
-      "cited_by_count": 38
+      "cited_by_count": 39
     },
     {
       "id": "https://openalex.org/W2896955158",
@@ -11293,7 +11366,7 @@
       "landing_page_url": "https://doi.org/10.1137/16m1073741",
       "open_access_url": "http://arxiv.org/abs/1605.00952",
       "is_retracted": false,
-      "cited_by_count": 67
+      "cited_by_count": 68
     },
     {
       "id": "https://openalex.org/W2750650104",
@@ -11320,7 +11393,7 @@
       "landing_page_url": "https://doi.org/10.1145/3128572.3140451",
       "open_access_url": "http://arxiv.org/abs/1708.08689",
       "is_retracted": false,
-      "cited_by_count": 592
+      "cited_by_count": 594
     },
     {
       "id": "https://openalex.org/W2555008851",
@@ -11336,7 +11409,7 @@
         "João M. Monteiro",
         "Massimiliano Pontil",
         "John S. Shawe-Taylor",
-        "Janaı́na Mourão-Miranda"
+        "Janaína Mourão-Miranda"
       ],
       "member_ids": [
         "massimiliano-pontil"
@@ -11420,7 +11493,7 @@
       "landing_page_url": "https://doi.org/10.1214/15-aihp705",
       "open_access_url": "https://hal.science/hal-03541879v1",
       "is_retracted": false,
-      "cited_by_count": 88
+      "cited_by_count": 89
     },
     {
       "id": "https://openalex.org/W2414741436",
@@ -11442,7 +11515,7 @@
       "landing_page_url": "http://arxiv.org/abs/1606.01487",
       "open_access_url": "http://arxiv.org/abs/1606.01487",
       "is_retracted": false,
-      "cited_by_count": 5
+      "cited_by_count": 6
     },
     {
       "id": "https://openalex.org/W2524946712",
@@ -11464,7 +11537,7 @@
       "landing_page_url": "https://doi.org/10.3150/15-bej730",
       "open_access_url": "https://doi.org/10.3150/15-bej730",
       "is_retracted": false,
-      "cited_by_count": 235
+      "cited_by_count": 238
     },
     {
       "id": "https://openalex.org/W2554146567",
@@ -11824,7 +11897,7 @@
       "landing_page_url": "https://doi.org/10.1007/s00440-016-0736-y",
       "open_access_url": "http://arxiv.org/abs/1412.8132",
       "is_retracted": false,
-      "cited_by_count": 115
+      "cited_by_count": 117
     },
     {
       "id": "https://openalex.org/W2548809857",
@@ -11926,7 +11999,7 @@
       "landing_page_url": "https://doi.org/10.1109/cvpr.2016.146",
       "open_access_url": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/58336",
       "is_retracted": false,
-      "cited_by_count": 432
+      "cited_by_count": 431
     },
     {
       "id": "https://openalex.org/W2293071263",
@@ -12190,7 +12263,7 @@
       "type": "article",
       "authors": [
         "Jair Montoya-Martínez",
-        "Antonio Artés-Rodrı́guez",
+        "Antonio Artés-Rodríguez",
         "Massimiliano Pontil",
         "Lars Kai Hansen"
       ],
@@ -12406,7 +12479,7 @@
       "landing_page_url": "https://doi.org/10.3150/12-bej487",
       "open_access_url": "https://doi.org/10.3150/12-bej487",
       "is_retracted": false,
-      "cited_by_count": 165
+      "cited_by_count": 166
     },
     {
       "id": "https://openalex.org/W2295558268",
@@ -12626,7 +12699,7 @@
       "type": "conference-paper",
       "authors": [
         "Jair Montoya-Martínez",
-        "Antonio Artés-Rodrı́guez",
+        "Antonio Artés-Rodríguez",
         "Massimiliano Pontil"
       ],
       "member_ids": [
@@ -12827,7 +12900,7 @@
       "landing_page_url": "http://discovery.ucl.ac.uk/1393206/",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 136
+      "cited_by_count": 135
     },
     {
       "id": "https://openalex.org/W1502742468",
@@ -12872,7 +12945,7 @@
       "landing_page_url": "https://doi.org/10.1007/978-3-0348-0490-5_20",
       "open_access_url": "http://arxiv.org/abs/1205.7060",
       "is_retracted": false,
-      "cited_by_count": 39
+      "cited_by_count": 38
     },
     {
       "id": "https://openalex.org/W2051390658",
@@ -12956,7 +13029,7 @@
       "landing_page_url": "https://doi.org/10.1371/journal.pone.0037027",
       "open_access_url": "https://doi.org/10.1371/journal.pone.0037027",
       "is_retracted": false,
-      "cited_by_count": 633
+      "cited_by_count": 639
     },
     {
       "id": "https://openalex.org/W2160536246",
@@ -13029,7 +13102,7 @@
       "landing_page_url": "https://doi.org/10.1371/annotation/ca85bf7a-7922-47d5-8bfb-bcdf25af8c72",
       "open_access_url": "https://doi.org/10.1371/annotation/ca85bf7a-7922-47d5-8bfb-bcdf25af8c72",
       "is_retracted": false,
-      "cited_by_count": 113
+      "cited_by_count": 115
     },
     {
       "id": "https://openalex.org/W1565096114",
@@ -13129,7 +13202,7 @@
       "landing_page_url": "https://doi.org/10.68381/jca19062",
       "open_access_url": "https://doi.org/10.68381/jca19062",
       "is_retracted": false,
-      "cited_by_count": 78
+      "cited_by_count": 79
     },
     {
       "id": "https://openalex.org/W1898511152",
@@ -13154,7 +13227,7 @@
       "landing_page_url": "https://eprints.lancs.ac.uk/id/eprint/85022/",
       "open_access_url": "http://arxiv.org/abs/1206.4655",
       "is_retracted": false,
-      "cited_by_count": 88
+      "cited_by_count": 89
     },
     {
       "id": "https://openalex.org/W2110097068",
@@ -13181,7 +13254,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.717.6342",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 564
+      "cited_by_count": 563
     },
     {
       "id": "https://openalex.org/W2135316123",
@@ -13217,7 +13290,7 @@
       "type": "conference-paper",
       "authors": [
         "Luca Baldassarre",
-        "Janaı́na Mourão-Miranda",
+        "Janaína Mourão-Miranda",
         "Massimiliano Pontil"
       ],
       "member_ids": [
@@ -13240,7 +13313,7 @@
       "type": "conference-paper",
       "authors": [
         "Jair Montoya-Martínez",
-        "Antonio Artés-Rodrı́guez",
+        "Antonio Artés-Rodríguez",
         "Lars Kai Hansen",
         "Massimiliano Pontil"
       ],
@@ -13298,7 +13371,7 @@
       "landing_page_url": "http://arxiv.org/abs/1104.1436",
       "open_access_url": "http://arxiv.org/abs/1104.1436",
       "is_retracted": false,
-      "cited_by_count": 49
+      "cited_by_count": 50
     },
     {
       "id": "https://openalex.org/W190762192",
@@ -13346,7 +13419,7 @@
       "landing_page_url": "https://doi.org/10.1214/11-aos894",
       "open_access_url": "https://doi.org/10.1214/11-aos894",
       "is_retracted": false,
-      "cited_by_count": 626
+      "cited_by_count": 622
     },
     {
       "id": "https://openalex.org/W1594011890",
@@ -13392,7 +13465,7 @@
       "landing_page_url": "https://doi.org/10.1214/11-aos896",
       "open_access_url": "https://hal.science/hal-00652284v1",
       "is_retracted": false,
-      "cited_by_count": 377
+      "cited_by_count": 378
     },
     {
       "id": "https://openalex.org/W2073161164",
@@ -13438,7 +13511,7 @@
       "landing_page_url": "https://doi.org/10.1371/journal.pone.0016774",
       "open_access_url": "https://doi.org/10.1371/journal.pone.0016774",
       "is_retracted": false,
-      "cited_by_count": 95
+      "cited_by_count": 94
     },
     {
       "id": "https://openalex.org/W2166701319",
@@ -13462,7 +13535,7 @@
       "landing_page_url": "https://doi.org/10.1093/bioinformatics/btr638",
       "open_access_url": "https://doi.org/10.1093/bioinformatics/btr638",
       "is_retracted": false,
-      "cited_by_count": 783
+      "cited_by_count": 787
     },
     {
       "id": "https://openalex.org/W2128610923",
@@ -13507,7 +13580,7 @@
       "landing_page_url": "https://doi.org/10.1109/tit.2010.2069250",
       "open_access_url": "http://arxiv.org/abs/1002.0832",
       "is_retracted": false,
-      "cited_by_count": 92
+      "cited_by_count": 90
     },
     {
       "id": "https://openalex.org/W2150979613",
@@ -13552,7 +13625,7 @@
       "landing_page_url": "https://doi.org/10.1214/10-aos836",
       "open_access_url": "https://doi.org/10.1214/10-aos836",
       "is_retracted": false,
-      "cited_by_count": 80
+      "cited_by_count": 82
     },
     {
       "id": "https://openalex.org/W2154389918",
@@ -13597,7 +13670,7 @@
       "landing_page_url": "http://arxiv.org/abs/0907.3740",
       "open_access_url": "http://arxiv.org/abs/0907.3740",
       "is_retracted": false,
-      "cited_by_count": 505
+      "cited_by_count": 523
     },
     {
       "id": "https://openalex.org/W80752073",
@@ -13665,7 +13738,7 @@
       "landing_page_url": "https://doi.org/10.1186/1471-2105-10-365",
       "open_access_url": "https://doi.org/10.1186/1471-2105-10-365",
       "is_retracted": false,
-      "cited_by_count": 111
+      "cited_by_count": 112
     },
     {
       "id": "https://openalex.org/W1800306869",
@@ -13690,7 +13763,7 @@
       "landing_page_url": "http://arxiv.org/abs/0903.1468",
       "open_access_url": "http://arxiv.org/abs/0903.1468",
       "is_retracted": false,
-      "cited_by_count": 179,
+      "cited_by_count": 178,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W2964036110",
@@ -13767,7 +13840,7 @@
       "landing_page_url": "https://doi.org/10.1007/s10994-007-5040-8",
       "open_access_url": "https://doi.org/10.1007/s10994-007-5040-8",
       "is_retracted": false,
-      "cited_by_count": 1551
+      "cited_by_count": 1554
     },
     {
       "id": "https://openalex.org/W1993177744",
@@ -13943,7 +14016,7 @@
       "landing_page_url": "https://doi.org/10.1214/08-ejs177",
       "open_access_url": "https://doi.org/10.1214/08-ejs177",
       "is_retracted": false,
-      "cited_by_count": 159,
+      "cited_by_count": 157,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W3100190044",
@@ -13976,7 +14049,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.108.7900",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 122
+      "cited_by_count": 121
     },
     {
       "id": "https://openalex.org/W2113484479",
@@ -14046,7 +14119,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.304.6717",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 216
+      "cited_by_count": 215
     },
     {
       "id": "https://openalex.org/W2099709648",
@@ -14158,7 +14231,7 @@
       "landing_page_url": "https://doi.org/10.7551/mitpress/7503.003.0010",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 1401
+      "cited_by_count": 1402
     },
     {
       "id": "https://openalex.org/W2059571389",
@@ -14224,7 +14297,7 @@
       ],
       "venue": "International Conference on Machine Learning",
       "landing_page_url": "https://doi.org/10.1145/1143844.1143850",
-      "open_access_url": null,
+      "open_access_url": "https://ora.ox.ac.uk/objects/uuid:93e4c7b9-e8b9-4059-b15b-05ac4af5d140",
       "is_retracted": false,
       "cited_by_count": 115
     },
@@ -14272,8 +14345,8 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": null,
-      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.377.2803",
+      "venue": "UNSPECIFIED (2006)",
+      "landing_page_url": "http://discovery.ucl.ac.uk/163479/",
       "open_access_url": null,
       "is_retracted": false,
       "cited_by_count": 7
@@ -14312,7 +14385,7 @@
       "type": "conference-paper",
       "authors": [
         "B. Heiselet",
-        "T. Serre",
+        "Thomas Serre",
         "Massimiliano Pontil",
         "Tomaso Poggio"
       ],
@@ -14369,7 +14442,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.86.9708",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 807
+      "cited_by_count": 806
     },
     {
       "id": "https://openalex.org/W2121033924",
@@ -14391,7 +14464,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.90.6623",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 381
+      "cited_by_count": 379
     },
     {
       "id": "https://openalex.org/W1993793464",
@@ -14549,7 +14622,7 @@
       "landing_page_url": "https://doi.org/10.1109/igarss.2004.1369024",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 43
+      "cited_by_count": 44
     },
     {
       "id": "https://openalex.org/W2170981964",
@@ -14594,7 +14667,7 @@
       "landing_page_url": "https://doi.org/10.1162/0899766052530802",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 520
+      "cited_by_count": 521
     },
     {
       "id": "https://openalex.org/W2143104527",
@@ -14616,7 +14689,7 @@
       "landing_page_url": "https://doi.org/10.1145/1014052.1014067",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 1502
+      "cited_by_count": 1500
     },
     {
       "id": "https://openalex.org/W2055979621",
@@ -14775,7 +14848,7 @@
       "landing_page_url": "http://discovery.ucl.ac.uk/163483/",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 2
+      "cited_by_count": 1
     },
     {
       "id": "https://openalex.org/W19199171",
@@ -14842,6 +14915,31 @@
       "open_access_url": null,
       "is_retracted": false,
       "cited_by_count": 16
+    },
+    {
+      "id": "https://openalex.org/W2110822444",
+      "source": "OpenAlex",
+      "source_url": "https://openalex.org/W2110822444",
+      "doi": null,
+      "title": "Categorization by Learning and Combining Object Parts",
+      "publication_year": 2002,
+      "publication_date": "2002-01-01",
+      "type": "article",
+      "authors": [
+        "Bernd Heisele",
+        "Thomas Serre",
+        "Massimiliano Pontil",
+        "Thomas R. Vetter",
+        "Tomaso Poggio"
+      ],
+      "member_ids": [
+        "massimiliano-pontil"
+      ],
+      "venue": null,
+      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.20.1017",
+      "open_access_url": null,
+      "is_retracted": false,
+      "cited_by_count": 117
     },
     {
       "id": "https://openalex.org/W2161970352",
@@ -15054,31 +15152,6 @@
       "cited_by_count": 0
     },
     {
-      "id": "https://openalex.org/W2110822444",
-      "source": "OpenAlex",
-      "source_url": "https://openalex.org/W2110822444",
-      "doi": null,
-      "title": "Categorization by Learning and Combining Object Parts",
-      "publication_year": 2001,
-      "publication_date": "2001-01-01",
-      "type": "article",
-      "authors": [
-        "Bernd Heisele",
-        "Thomas Serre",
-        "Massimiliano Pontil",
-        "Thomas R. Vetter",
-        "Tomaso Poggio"
-      ],
-      "member_ids": [
-        "massimiliano-pontil"
-      ],
-      "venue": null,
-      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.20.1017",
-      "open_access_url": null,
-      "is_retracted": false,
-      "cited_by_count": 118
-    },
-    {
       "id": "https://openalex.org/W2162642281",
       "source": "OpenAlex",
       "source_url": "https://openalex.org/W2162642281",
@@ -15121,7 +15194,7 @@
       "landing_page_url": "https://doi.org/10.1007/3-540-44673-7_12",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 610,
+      "cited_by_count": 615,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W1566162434",
@@ -15176,7 +15249,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.21.2277",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 22
+      "cited_by_count": 21
     },
     {
       "id": "https://openalex.org/W1493269421",
@@ -15199,7 +15272,7 @@
       "landing_page_url": "https://doi.org/10.21236/ada459705",
       "open_access_url": "http://hdl.handle.net/1721.1/7229",
       "is_retracted": false,
-      "cited_by_count": 180
+      "cited_by_count": 178
     },
     {
       "id": "https://openalex.org/W2097839764",
@@ -15225,7 +15298,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.102.7476",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 988
+      "cited_by_count": 984
     },
     {
       "id": "https://openalex.org/W187881133",
@@ -15249,7 +15322,7 @@
       "landing_page_url": "http://discovery.ucl.ac.uk/163291/",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 37
+      "cited_by_count": 36
     },
     {
       "id": "https://openalex.org/W2729576625",
@@ -15269,30 +15342,6 @@
       ],
       "venue": "UCL Discovery (University College London)",
       "landing_page_url": "http://discovery.ucl.ac.uk/163283/",
-      "open_access_url": null,
-      "is_retracted": false,
-      "cited_by_count": 0
-    },
-    {
-      "id": "https://openalex.org/W126293571",
-      "source": "OpenAlex",
-      "source_url": "https://openalex.org/W126293571",
-      "doi": null,
-      "title": "Machine Learning Strategies for Complex Tasks",
-      "publication_year": 2000,
-      "publication_date": "2000-01-01",
-      "type": "article",
-      "authors": [
-        "Colin Campbell",
-        "Theodoros Evgeniou",
-        "Bernd Heisele",
-        "Massimiliano Pontil"
-      ],
-      "member_ids": [
-        "massimiliano-pontil"
-      ],
-      "venue": null,
-      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.9171",
       "open_access_url": null,
       "is_retracted": false,
       "cited_by_count": 0
@@ -15388,7 +15437,7 @@
       "landing_page_url": "https://doi.org/10.1023/a:1018946025316",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 1201,
+      "cited_by_count": 1200,
       "alternate_locations": [
         {
           "id": "https://openalex.org/W2533558946",
@@ -15462,8 +15511,8 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
-      "landing_page_url": "http://hdl.handle.net/1721.1/7261",
+      "venue": null,
+      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.18.1931",
       "open_access_url": "http://hdl.handle.net/1721.1/7261",
       "is_retracted": false,
       "cited_by_count": 63
@@ -15529,8 +15578,8 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
-      "landing_page_url": "http://hdl.handle.net/1721.1/7262",
+      "venue": null,
+      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.34.5784",
       "open_access_url": "http://hdl.handle.net/1721.1/7262",
       "is_retracted": false,
       "cited_by_count": 0
@@ -15579,7 +15628,7 @@
       "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.126.7486",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 14
+      "cited_by_count": 13
     },
     {
       "id": "https://openalex.org/W2571441540",
@@ -15598,11 +15647,11 @@
       "member_ids": [
         "massimiliano-pontil"
       ],
-      "venue": "DSpace@MIT (Massachusetts Institute of Technology)",
-      "landing_page_url": "http://hdl.handle.net/1721.1/7258",
+      "venue": null,
+      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.116.2422",
       "open_access_url": "http://hdl.handle.net/1721.1/7258",
       "is_retracted": false,
-      "cited_by_count": 24
+      "cited_by_count": 23
     },
     {
       "id": "https://openalex.org/W2105250379",
@@ -15669,7 +15718,7 @@
       "landing_page_url": "https://doi.org/10.1109/34.683777",
       "open_access_url": null,
       "is_retracted": false,
-      "cited_by_count": 821
+      "cited_by_count": 816
     },
     {
       "id": "https://openalex.org/W275133072",
@@ -15779,8 +15828,32 @@
         "jordan-patracone"
       ],
       "venue": "HAL",
-      "landing_page_url": "https://inria.hal.science/hal-05806077",
-      "open_access_url": "https://inria.hal.science/hal-05806077",
+      "landing_page_url": "https://hal.science/hal-05806077v1",
+      "open_access_url": "https://hal.science/hal-05806077v1",
+      "is_retracted": false,
+      "cited_by_count": 0
+    },
+    {
+      "id": "https://openalex.org/W126293571",
+      "source": "OpenAlex",
+      "source_url": "https://openalex.org/W126293571",
+      "doi": null,
+      "title": "Machine Learning Strategies for Complex Tasks",
+      "publication_year": null,
+      "publication_date": null,
+      "type": "article",
+      "authors": [
+        "Colin Campbell",
+        "Theodoros Evgeniou",
+        "Bernd Heisele",
+        "Massimiliano Pontil"
+      ],
+      "member_ids": [
+        "massimiliano-pontil"
+      ],
+      "venue": null,
+      "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.31.9171",
+      "open_access_url": null,
       "is_retracted": false,
       "cited_by_count": 0
     },
